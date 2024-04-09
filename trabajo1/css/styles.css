@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Quicksand:wght@300..700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+    --staat-font:"Bungee Spice", sans-serif;
+    --fondo-degradado: linear-gradient(90deg,lightblue, black);
+    --negro90: rgb(33,33,33);
+
+
+
+}
+
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+   
+    
+  }
+
+body{
+
+    height: 100vh;
+    width: 100vw;
+}  
+
+.container{
+
+    height: 100%;
+    width: 100%;
+    background: var(--fondo-degradado);
+    display: grid;
+    place-items: center;
+
+
+}
+
+.tarjeta {
+    height: 550px;
+    width: 300px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    box-shadow: 20px 20px 15px 15px brown;
+
+    & .titulo{
+
+        height: 55px;
+        width: 300px;
+        border-radius: 20px 20px 0 0;
+        background-color: aqua;
+    }
+    
+    & .precio{
+    
+        height: 200px;
+        width: 300px;
+        background-color: burlywood;
+    }
+    
+    & .descripcion{
+    
+        height: 220px;
+        width: 300px;
+        background-color: black;
+    }
+    
+
+    & .foot{
+        height: 75px;
+        border-radius: 0 0 20px 20px;
+        width: 300px;
+        background-color: aqua;
+
+
+    }
+    
+}
+
+
+  
+  
