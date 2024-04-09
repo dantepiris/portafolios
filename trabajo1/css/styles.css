@@ -51,10 +51,19 @@ body{
 
     & .titulo{
 
-        height: 55px;
+        height: 48px;
         width: 300px;
         border-radius: 20px 20px 0 0;
         background-color: aqua;
+       
+
+        & .icono{
+            font-size: 30px;
+            margin-left: 20px;
+            padding: 5px;
+            color:blueviolet;
+
+        }
     }
     
     & .precio{
@@ -77,6 +86,8 @@ body{
         border-radius: 0 0 20px 20px;
         width: 300px;
         background-color: aqua;
+        display: grid;
+    place-items: center;
 
 
     }
