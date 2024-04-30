@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+
+  --precio-fondo: "Viga", sans-serif;
+  --precio-talle: "Manrope", sans-serif;
+  --fondo-degradado: linear-gradient(90deg, lightblue, black);
+  --negro90: rgb(33, 33, 33);
+  --font-descripcion: "PT Serif", serif;
+}
+
+
+.azul {
+  background-color: rgb(221, 0, 255);
+}
+
+.verde {
+  background-color: rgb(88, 79, 97);
+}
+
+.violeta {
+  background-color: rgb(255, 255, 255);
+}
+
+.rojo {
+  background-color: rgb(0, 0, 0);
+}
+
+.viga-regular {
+  font-family: "Viga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.manrope-uniquifier {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+
+.pt-serif-regular {
+  /* letra de descripcion */
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+
+  height: 100%;
+  width: 100%;
+  background: var(--fondo-degradado);
+  display: grid;
+  place-items: center;
+
+
+}
+
+.tarjeta {
+  height: 550px;
+  width: 300px;
+  background-color: white;
+  border-radius: 20px;
+
+  /* box-shadow: 20px 20px 15px 15px white; */
+
+  & .titulo {
+
+    height: 150px;
+    width: 300px;
+    position: relative;
+    border-radius: 20px 20px 0 0;
+    background-image: url(../img/serpiente.jpg);
+
+    & .redondo{
+
+      background-image: url(../img/messi.jpg);
+      background-size: cover;
+      position: absolute;
+      bottom: -80px;
+      left: 70px;
+      width: 150px;
+      height: 150px;
+      border-radius: 110%;
+      z-index: 3;
+    }
+
+
+  }
+
+  & .precio {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background-color: rgb(135, 135, 135);
+    /* background-size: cover;
+    background-position: center; */
+  }
+
+
+
+
+
+  & .descripcion {
+
+    height: 310px;
+    width: 300px;
+    font-family: var(--precio-talle);
+    color: rgb(0, 0, 0);
+    padding: 25px;
+    padding-top: 80px;
+    background-color: rgb(106, 106, 106);
+
+
+
+   
+
+    & .texto-1{
+      font-size:13px; 
+      text-align:start;
+
+
+    }
+
+    & .texto-2{
+    text-align:start;
+    font-size: 10px;
+
+    }
+
+   
+
+    & .talles {
+
+      width: 50%;
+      display: flex;
+      gap: 20px;
+      
+      
+      
+
+      & .let{
+
+        padding: 15px;
+        margin-top:45px;
+        margin-left: 5px;
+      
+        
+      }
+
+    }
+
+
+   
+  }
+  & .foot {
+    height: 82px;
+    border-radius: 0 0 20px 20px;
+    width: 300px;
+    background-image: url(../img/serpiente.jpg);
+    display: grid;
+    place-items: center;
+
+
+
+  }
+}
+
+
+
+
+
+
+
+
+a {
+  position: relative;
+  display: inline-block;
+  padding: 9px 13px;
+  border: 2px solid #fefefe;
+  text-transform: uppercase;
+  color: #fefefe;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+a::before {
+  content: '';
+  position: absolute;
+  top: 6px;
+  left: -2px;
+  width: calc(100% + 4px);
+  height: calc(100% - 12px);
+  background-color: #121010;
+  transition: 0.3s ease-in-out;
+  transform: scaleY(1);
+}
+
+a:hover::before {
+  transform: scaleY(0);
+}
+
+a::after {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: -2px;
+  height: calc(100% + 4px);
+  width: calc(100% - 12px);
+  
+  transition: 0.3s ease-in-out;
+  transform: scaleX(1);
+  transition-delay: 0.5s;
+}
+
+a:hover::after {
+  transform: scaleX(0);
+}
+
+a span {
+  position: relative;
+  z-index: 3;
+}
+
+button {
+  background-color: none;
+  text-decoration: none;
+  background-color: #000000;
+  border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
