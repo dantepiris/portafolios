@@ -1,0 +1,720 @@
+[
+  {
+    "truck_id": "66",
+    "name": "Asador Criollos",
+    "category": "Especialidad, Americana.",
+    "bio": "Camión de comida galardonado internacionalmente. ¡El primer camión de comida de estilo americano en Australia con alitas de pollo! \r\n¡Ofreciendo 5 sabores únicos de alitas jugosas, sabrosas y crujientes! ¡Prueba el hype!\r\nRepresentó a Australia en Nueva York en 2016 para el Festival de Alitas de Búfalo más grande del mundo, actual poseedor del premio al Mejor Camión de Comida de Brisbane (Eat Drink Awards 2018)... \r\n¡Este camión es una visita obligada para los amantes de las alitas!",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/King%20of%20the%20Wings/king_of_the_wings_logo_0.jpg?itok=mvKcHHD6",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/King%20of%20the%20Wings/image.jpeg?itok=GDIv3sIa",
+      "alt": "",
+      "title": ""
+    },
+    "website": "",
+    "url_facebook": "https://www.facebook.com/kingofthewingsbrisbane/",
+    "instagram_handle": "wingstigram ",
+    "twitter_handle": "kingofthewings1",
+    "direccion": "La Habana 50, Tortuguitas",
+    "horario": "9.00 - 15.00hs",
+    "km": "2.5 KM",
+    "delivery":"No tiene delivery",
+    "puntuacion": "4",
+    "rango": "3",
+    "menu": [
+      {
+        "id_plato": "1",
+        "nombre": "Alitas de Búfalo Clásicas",
+        "category": "Especialidad, Americana.",
+        "descripcion": "Alitas de búfalo picantes y ácidas servidas con apio y dip de queso azul.",
+        "precio": "12.99",
+        "img_url": "https://cocinaconteresa.com/wp-content/uploads/2022/07/alitas-bufalo.jpg"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Alitas BBQ de Miel",
+        "category": "Especialidad, Americana.",
+        "descripcion": "Alitas BBQ dulces y ahumadas glaseadas con miel.",
+        "precio": "14.05",
+        "img_url": "https://tse3.mm.bing.net/th?id=OIP.vcvJ05PMMlcUXx_CftW3jQHaDt&pid=Api&P=0&h=180"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Alitas de Mango Habanero",
+        "category": "Especialidad, Americana.",
+        "descripcion": "Audaces y ardientes alitas de pollo con un glaseado de mango habanero dulce y picante, que seguro emocionará tus papilas gustativas.",
+        "precio": "14.59",
+        "img_url": "https://cdn7.kiwilimon.com/recetaimagen/33569/38971.jpg"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Alitas de Ajo y Parmesano",
+        "category": "Especialidad, Americana.",
+        "descripcion": "Crispy alitas de pollo cubiertas con una rica salsa de ajo y parmesano, decoradas con perejil fresco.",
+        "precio": "14.29",
+        "img_url": "https://www.gastrolabweb.com/u/fotografias/m/2022/2/23/f1280x720-26092_157767_5050.jpg"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Alitas de Limón y Pimienta",
+        "category": "Especialidad, Americana.",
+        "descripcion": "Sabrosas alitas de pollo sazonadas con un aliño de limón y pimienta, servidas con aderezo ranch.",
+        "precio": "13.79",
+        "img_url": "https://th.bing.com/th/id/OIP.GVGi81mXmwpFYMa-V0FgmAHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Alitas Teriyaki",
+        "category": "Especialidad, Americana.",
+        "descripcion": "Alitas de pollo glaseadas con una deliciosa salsa teriyaki, acompañadas de zanahorias y apio.",
+        "precio": "14.29",
+        "img_url": "https://th.bing.com/th/id/OIP.-z5Of3DfOXhr_mOl_Uur3gHaEE?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas": [
+      {
+        "namepers": "John Doe",
+        "plato_desgusto": "Alitas de Búfalo Clásicas",
+        "descripcion_rese": "Me encantó el nivel de picante. El dip de queso azul era perfecto.",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://4.bp.blogspot.com/-SLL0Vvo9cBY/UWxVgeCsClI/AAAAAAAAADM/QQ_FxRnKtCk/s1600/bigstock_Happy_Young_Man_Looking_At_Cam_3690139.jpg"
+      },
+      {
+        "namepers": "Jane Smith",
+        "plato_desgusto": "Alitas BBQ de Miel",
+        "descripcion_rese": "Las alitas estaban jugosas y el glaseado de BBQ estaba delicioso.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://c.wallhere.com/photos/ef/b0/1800x1125_px_brunette_Emanuela_De_Paula_face_model_women-520672.jpg!d"
+      }, 
+      {
+        "namepers": "David Garcia",
+        "plato_desgusto": "Alitas de Mango Habanero",
+        "descripcion_rese": "Picantes y dulces al mismo tiempo, el mango y el habanero se complementaban muy bien.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.8you9EaDN9Pkj_cL0xbNLwHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Emily Brown",
+        "plato_desgusto": "Alitas Teriyaki",
+        "descripcion_rese": "Las alitas tenían un delicioso glaseado teriyaki que las hacía muy sabrosas.",
+        "puntuacion_rese": "6",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.iuIvxwKfVfRHhClKMR9KCAHaJA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Michael Johnson",
+        "plato_desgusto": "Alitas de Limón y Pimienta",
+        "descripcion_rese": "Las alitas tenían un sabor fresco a limón con un ligero toque de pimienta negra.",
+        "puntuacion_rese": "4",
+        "img_url_pers": "https://i.pinimg.com/originals/52/bf/d8/52bfd80e8de8e49ec375d7b494dd99dd.jpg"
+      },
+      {
+        "namepers": "Sarah Miller",
+        "plato_desgusto": "Alitas de Ajo y Parmesano",
+        "descripcion_rese": "El sabor a ajo era demasiado fuerte y dominaba el queso parmesano, no era de mi agrado.",
+        "puntuacion_rese": "2",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.ULPJcmau64q-nbQH4N0UrAHaJQ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Daniel Wilson",
+        "plato_desgusto": "Alitas de Limón y Pimienta",
+        "descripcion_rese": "Las alitas tenían un sabor a limón artificial y la pimienta era demasiado fuerte, no las recomendaría.",
+        "puntuacion_rese": "2",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.y2tZoXxUfWlht_j0PMkEEgAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Sophia Thompson",
+        "plato_desgusto": "Alitas Teriyaki",
+        "descripcion_rese": "Las alitas estaban bien, pero el glaseado teriyaki era demasiado dulce para mi gusto.",
+        "puntuacion_rese": "3",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.fTRMrwLIx-2FVSV0UeP1qQHaHb?rs=1&pid=ImgDetMain"
+      }
+    ]
+  },
+  {
+    "truck_id": "71",
+    "name": "Koma Sliders",
+    "category": "Especialidad,Korean.",
+    "bio": "\"¡Es coreano. ¡Es americano. ¡Es deslizador-ilicioso!\" Fiel a nuestro nombre, Koma Sliders es un camión de comida que se destaca fusionando dos diferentes cocinas y ofreciendo algo diferente y delicioso. Desde nuestras papas fritas completamente cargadas hechas a pedido que vienen cubiertas con queso mozzarella, carne de Bulgogi, kimchi caramelizado, y alioli + mayonesa picante. Hasta las carnes que se preparan en nuestros adobos originales hechos desde cero. Nuestro estilo de cocina incluye carnes jugosas de barbacoa coreana cocinadas frente a tus ojos para nuestros sliders. Todo tiene una inspiración coreana detrás de ello. ",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Koma%20Sliders/redkomalogoolaf_0.jpg?itok=1Er2gbGN",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Koma%20Sliders/untitled.jpg?itok=C7S-gErO",
+      "alt": "",
+      "title": ""
+    },
+    "website": "https://www.komasliders.com.au/",
+    "facebook_url": "https://www.facebook.com/komasliders/",
+    "instagram_handle": "komasliders",
+    "twitter_handle": "komasliders",
+    "direccion": "Mar del Plata 8823, Tortuguitas",
+    "horario": "9.00 - 15.00hs",
+    "km": "4.5 KM",
+    "delivery":" delivery",
+    "puntuacion": "3",
+    "rango": "3",
+    "menu": [
+      {
+        "id_plato": "1",
+        "nombre": "Fully Loaded Fries",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Papas fritas cargadas con queso mozzarella, Bulgogi beef, kimchi caramelizado, y alioli + mayonesa picante.",
+        "precio": "9.99",
+        "img_url": "https://example.com/fully_loaded_fries.jpg"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Korean BBQ Sliders",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Sliders con jugosas carnes de barbacoa coreana cocinadas a la perfección, servidas con vegetales en panecillos suaves.",
+        "precio": "11.50",
+        "img_url": "https://example.com/korean_bbq_sliders.jpg"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Bulgogi Beef Bowl",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Bol con arroz cubierto de tierna carne de Bulgogi marinada, acompañado de verduras frescas.",
+        "precio": "13.99",
+        "img_url": "https://example.com/bulgogi_beef_bowl.jpg"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Kimchi Quesadillas",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Quesadillas rellenas de kimchi picante y queso derretido, servidas con salsa de sriracha.",
+        "precio": "10.99",
+        "img_url": "https://example.com/kimchi_quesadillas.jpg"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Spicy Pork Tacos",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Tacos con carne de cerdo picante marinada, ensalada fresca y salsa de gochujang.",
+        "precio": "8.99",
+        "img_url": "https://example.com/spicy_pork_tacos.jpg"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Korean Fried Chicken",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Pollo frito estilo coreano crujiente y jugoso, servido con salsa de miel y ajo.",
+        "precio": "12.50",
+        "img_url": "https://example.com/korean_fried_chicken.jpg"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Bibimbap",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Plato de arroz con vegetales salteados, huevo frito, carne de res marinada y gochujang.",
+        "precio": "11.75",
+        "img_url": "https://example.com/bibimbap.jpg"
+      },
+      {
+        "id_plato": "8",
+        "nombre": "Dak Galbi",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Pollo salteado con verduras y gochujang, servido con arroz.",
+        "precio": "10.50",
+        "img_url": "https://example.com/dak_galbi.jpg"
+      },
+      {
+        "id_plato": "9",
+        "nombre": "Japchae",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Fideos de batata salteados con verduras y carne, aderezados con salsa de soja y aceite de sésamo.",
+        "precio": "9.25",
+        "img_url": "https://example.com/japchae.jpg"
+      },
+      {
+        "id_plato": "10",
+        "nombre": "Kimchi Fried Rice",
+        "category": "Especialidad, Korean.",
+        "descripcion": "Arroz frito con kimchi, tocino y huevo, sazonado con gochujang.",
+        "precio": "8.75",
+        "img_url": "https://example.com/kimchi_fried_rice.jpg"
+      }
+    ],
+    "resenas": [
+    {
+      "namepers": "John Doe",
+      "plato_desgusto": "Fully Loaded Fries",
+      "descripcion_rese": "Las papas fritas estaban increíbles con el queso mozzarella derretido y el alioli picante.",
+      "puntuacion_rese": "9",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Jane Smith",
+      "plato_desgusto": "Korean BBQ Sliders",
+      "descripcion_rese": "Los sliders tenían una combinación perfecta de carne tierna y vegetales frescos.",
+      "puntuacion_rese": "8",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Michael Johnson",
+      "plato_desgusto": "Bulgogi Beef Bowl",
+      "descripcion_rese": "El bol de Bulgogi estaba muy sabroso con la carne marinada y las verduras frescas.",
+      "puntuacion_rese": "9",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Emily Brown",
+      "plato_desgusto": "Kimchi Quesadillas",
+      "descripcion_rese": "Las quesadillas tenían un buen equilibrio entre el picante del kimchi y el queso derretido.",
+      "puntuacion_rese": "7",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "David Garcia",
+      "plato_desgusto": "Spicy Pork Tacos",
+      "descripcion_rese": "Los tacos tenían un buen nivel de picante y la carne de cerdo estaba bien sazonada.",
+      "puntuacion_rese": "8",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Sarah Miller",
+      "plato_desgusto": "Korean Fried Chicken",
+      "descripcion_rese": "El pollo frito coreano era crujiente por fuera y jugoso por dentro, muy sabroso.",
+      "puntuacion_rese": "9",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Daniel Wilson",
+      "plato_desgusto": "Bibimbap",
+      "descripcion_rese": "El Bibimbap tenía una combinación deliciosa de ingredientes y el huevo frito estaba perfectamente cocinado.",
+      "puntuacion_rese": "7",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Sophia Thompson",
+      "plato_desgusto": "Dak Galbi",
+      "descripcion_rese": "El pollo salteado con gochujang estaba bien pero un poco salado para mi gusto.",
+      "puntuacion_rese": "6",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Alex Rodriguez",
+      "plato_desgusto": "Japchae",
+      "descripcion_rese": "Los fideos de batata salteados tenían un buen sabor pero eran un poco pesados.",
+      "puntuacion_rese": "6",
+      "img_url_pers": ""
+    },
+    {
+      "namepers": "Isabella Martinez",
+      "plato_desgusto": "Kimchi Fried Rice",
+      "descripcion_rese": "El arroz frito con kimchi estaba sabroso pero me pareció un poco seco.",
+      "puntuacion_rese": "7",
+      "img_url_pers": ""
+    }
+  ]
+
+  },
+
+  {
+    "truck_id": "91",
+    "name": "Nom Nom Eats",
+    "category": "Especialidad,Mexican.",
+    "bio": "Nom Nom Eats nació de la pasión por la cocina mexicana auténtica y del deseo de compartir sabores tradicionales con un toque moderno. Fundado por un equipo de chefs apasionados por la cultura culinaria mexicana, nuestro restaurante se esfuerza por ofrecer una experiencia gastronómica única y memorable.Desde su apertura, Nom Nom Eats se ha dedicado a preservar y celebrar las recetas tradicionales de México, adaptándolas con ingredientes frescos y técnicas innovadoras. Cada plato está inspirado en la rica diversidad de sabores regionales que caracterizan a la cocina mexicana, garantizando una experiencia auténtica para nuestros comensales.",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Nom%20Nom%20Eats/ayspruay.png?itok=6BA4IING",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/16/296801.jpg",
+      "alt": "",
+      "title": ""
+    },
+    
+    "website": "http://www.gourmetfoodtrucks.com.au",
+    "facebook_url": "",
+    "instagram_handle": "",
+    "twitter_handle": "",
+    "direccion": "Sarratea 583, Villa de Mayo",
+    "horario": "12.00 - 23.00hs",
+    "km": "1.5 KM",
+    "delivery":"No tiene delivery.",
+    "puntuacion": "5",
+    "rango": "2",
+    "menu": [
+      {
+        "id_plato": "1",
+        "nombre": "Tacos al Pastor",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Tortillas de maíz rellenas de cerdo marinado en adobo de chiles secos y piña, servidos con cebolla, cilantro y salsa de aguacate.",
+        "precio": "11.99",
+        "img_url":"https://th.bing.com/th/id/R.cbe7570855a830cfc398d239b5fca21e?rik=OnYU3lOsoE6jTw&riu=http%3a%2f%2fmilrecetas.net%2fwp-content%2fuploads%2f2016%2f09%2fTacos-al-pastor-3.jpg&ehk=3ylAYP%2fgLg2n6pPBPanu7ldoF9p%2fJcQXH7osJScmAm0%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Enchiladas Suizas",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Tortillas rellenas de pollo desmenuzado, bañadas en una salsa verde cremosa de tomatillo y gratinadas con queso.",
+        "precio": "10.99",
+        "img_url": "https://th.bing.com/th/id/R.3a87f76cdfa55a5b826d846a88bd5489?rik=liMWNWoYRuitFw&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Mole Poblano",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Pollo en una salsa espesa y oscura de chiles, chocolate y especias, acompañado de arroz y frijoles refritos.",
+        "precio": "13.50",
+        "img_url": "https://th.bing.com/th/id/OIP.O7J2PofAmNnU7-2TWHKSGwHaFA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Chiles en Nogada",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Chile poblano relleno de picadillo de carne de res y cerdo con frutas, cubierto con una salsa de nuez y granada.",
+        "precio": "14.99",
+        "img_url": "https://th.bing.com/th/id/OIP.A78LGQACf-UVIJK0C0jiSwAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Ceviche de Camarón",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Camarones marinados en jugo de limón con jitomate, cebolla morada, cilantro y aguacate.",
+        "precio": "12.75",
+        "img_url": "https://th.bing.com/th/id/OIP.4LjSUin6C4DCePulGdF_hQHaE7?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Tamales Oaxaqueños",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Tamales de masa de maíz rellenos de pollo en salsa verde, envueltos en hojas de plátano y cocidos al vapor.",
+        "precio": "9.99",
+        "img_url": "https://th.bing.com/th/id/OIP.FwmFr_W1Wn8y1jXdFYKPaAHaGK?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Churros con Cajeta",
+        "category": "Especialidad, Mexicana",
+        "descripcion": "Churros crujientes espolvoreados con azúcar y acompañados de cajeta caliente para untar.",
+        "precio": "7.50",
+        "img_url": "https://th.bing.com/th/id/OIP.jmNGZhoykETbDmBMODdxKwHaE8?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas": [
+      {
+        "namepers": "Emily Davis",
+        "plato_desgusto": "Enchiladas Suizas",
+        "descripcion_rese": "Las enchiladas estaban muy saladas y la salsa verde era demasiado ácida para mi gusto.",
+        "puntuacion_rese": "3",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.UMGo1DK2nzYZbZ3CduwrdQHaHa?w=600&h=600&rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Ryan Wilson",
+        "plato_desgusto": "Mole Poblano",
+        "descripcion_rese": "No me gustó la textura del pollo y la salsa de mole tenía un sabor demasiado amargo para mi paladar.",
+        "puntuacion_rese": "2",
+        "img_url_pers": "https://i.pinimg.com/originals/49/b3/08/49b30837af34bc0e65815a66c0cb7b02.jpg"
+      },
+      {
+        "namepers": "Sophia Johnson",
+        "plato_desgusto": "Ceviche de Camarón",
+        "descripcion_rese": "El ceviche estaba demasiado ácido y los camarones no estaban frescos. No lo recomendaría.",
+        "puntuacion_rese": "3",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.6IfySgR0mq-8Wcxt24cAcwHaJQ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Daniel Brown",
+        "plato_desgusto": "Tacos al Pastor",
+        "descripcion_rese": "Los tacos estaban demasiado condimentados y la carne no era tan tierna como esperaba.",
+        "puntuacion_rese": "4",
+        "img_url_pers": ""
+      },
+      {
+        "namepers": "Olivia Garcia",
+        "plato_desgusto": "Chiles en Nogada",
+        "descripcion_rese": "No me gustó la combinación de sabores dulces y salados en este plato. Preferiría algo más equilibrado.",
+        "puntuacion_rese": "3",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.uceUo1yLDwGTYGG2XeJ3qwAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Matthew Martinez",
+        "plato_desgusto": "Churros con Cajeta",
+        "descripcion_rese": "Los churros estaban demasiado aceitosos y la cajeta era demasiado dulce para mi gusto.",
+        "puntuacion_rese": "3",
+        "img_url_pers": "https://th.bing.com/th/id/R.c8b4c4a4dc6c2dfec0736a28910ae8d0?rik=5WWv95FKzBnztg&pid=ImgRaw&r=0"
+      },
+      {
+        "namepers": "Emma Thompson",
+        "plato_desgusto": "Tamales Oaxaqueños",
+        "descripcion_rese": "Los tamales estaban fríos y la masa se sentía cruda. No fue una experiencia agradable.",
+        "puntuacion_rese": "2",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.o4nnHC2C_YToez14Dd7RBAHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Lucas Rodriguez",
+        "plato_desgusto": "Enchiladas Suizas",
+        "descripcion_rese": "Las enchiladas estaban demasiado secas y el queso no se derretía correctamente. No cumplió con mis expectativas.",
+        "puntuacion_rese": "3",
+        "img_url_pers": "https://pbs.twimg.com/media/FZAt9IUXgAEkBed?format=jpg&name=large"
+      },
+      {
+        "namepers": "Isabella Flores",
+        "plato_desgusto": "Mole Poblano",
+        "descripcion_rese": "El mole poblano tenía un sabor muy fuerte y la porción de pollo era pequeña en comparación con la salsa.",
+        "puntuacion_rese": "4",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.UISVE1x63wDp5L6kjFF_egHaHa?rs=1&pid=ImgDetMain"
+      },
+    {
+      "namepers": "Jessica Lee",
+      "plato_desgusto": "Chiles en Nogada",
+      "descripcion_rese": "No me gustó la combinación de sabores. El relleno de carne estaba demasiado dulce para mi gusto.",
+      "puntuacion_rese": "4",
+      "img_url_pers": "https://i.pinimg.com/originals/a1/7c/38/a17c38af3c775f44e60dd23dd1f22cb4.jpg"
+    },
+    {
+      "namepers": "Michael Thompson",
+      "plato_desgusto": "Tamales Oaxaqueños",
+      "descripcion_rese": "Los tamales estaban muy secos y la salsa verde no tenía mucho sabor. No quedé satisfecho con este plato.",
+      "puntuacion_rese": "3",
+      "img_url_pers": "https://i.pinimg.com/originals/bc/2b/b5/bc2bb5c89f52357a4cf7bcdfbb7120d6.jpg"
+    }
+  ]
+  },
+
+
+  {
+    "truck_id": "96",
+    "name": "Rolling Stone Pizza",
+    "category": "Pizza",
+    "bio": "The heat of our authentic wood-fired oven is matched only by our passion for great pizza. \r\nFrom the excitement of a local market in the city to the intimacy of a wedding reception on the coast, we take great\r\npride in raising the bar on the mobile dining experience.\r\nWe hold a 5 Star Eat Safe Rating with Brisbane City Council and use fresh, seasonal produce, sourced wherever possible from local producers across SE QLD.\r\nOur menu offers Gluten Free and Vegetarian options, along with traditional favourites and gourmet specials.\r\n\"Rolling In\" to a location near you soon!\r\n",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Rolling%20Stone%20Pizza/rspizza_bricks.png?itok=NEq3QsoB",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Rolling%20Stone%20Pizza/pizza_1.png?itok=bd1lP755",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.rollingstonepizza.com.au/",
+    "facebook_url": "https://www.facebook.com/rollingstonemobilewoodfiredpizza/",
+    "instagram_handle": "rolling_stone_pizza",
+    "twitter_handle": "RSPizzaQLD",
+    "direccion": "Colonia Carolla, Córdoba",
+    "horario": "11.00 - 02.00hs",
+    "puntuacion": "4",
+    "rango": "3"
+  },
+  {
+    "truck_id": "106",
+    "name": "Catch and Kiss Seafood",
+    "category": "Seafood",
+    "bio": "Catch and Kiss started in Brisbane and in a short time built a strong following based on great food and friendly customer service. In time they have expanded to be able to offer a range of fresh seafood focused dishes to customers from their vintage Citroen H Van \"Claudette\" who is truly as beautiful as she is unique. Claudette's crew are renowned for having a variety of delicious seafood, such as  fresh oysters, Australian fish,  tender calamari and Australian prawns all served with  \"the best chips in the universe\" and seasonal salad etc. Is your mouth watering yet?\r\n\r\nClaudette is also available for private and corporate catering, weddings, parties and all other events and festivals with an adaptable menu. ",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Catch%20and%20Kiss%20Seafood/catchkiss-circluar-blue.png?itok=cTy90Q0P",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Catch%20and%20Kiss/claudette_12_no_signage_mkii.jpg?itok=LpQaVqNJ",
+      "alt": "",
+      "title": ""
+    },
+    "website": "",
+    "facebook_url": "https://www.facebook.com/catchandkissseafoodbne/",
+    "instagram_handle": "catch_and_kiss",
+    "twitter_handle": "",
+    "direccion": "Av. Santa Fé 3344, Palermo",
+    "horario": "11.00 - 02.00hs",
+    "puntuacion": "3",
+    "rango": "4"
+  },
+  {
+    "truck_id": "116",
+    "name": "Ruby the Little Red Ice Cream Van",
+    "category": "Dessert / Sweet",
+    "bio": "'Ruby' is a  fully restored, original vintage ice cream van built in England in 1973.  She arrived in Australia in 2013 where she underwent full restoration, hitting the streets of Brisbane and surrounds in 2014. Her menu features freshly made soft serve ice cream creations using a state of the art, high capacity, Italian Carpigiani ice cream machine.   Ruby's premium ice cream is milk based, gluten free and halal certified.  The traditional menu features crowd favourites such as the iconic 99 flake, rainbow sprinkles, sherbet, choc top, rocket, sundae as well as Ruby's signature specials.  Vegan and dairy free options are always available and alternative gelato and sorbet menus are available on request.  \r\n\r\nRuby's pastry chef qualified team has over 20 years gelato and ice cream making experience.  The van's unique set up  and experienced team specialise in high volume ice cream catering and the creation of impact ice creams for marketing activations. Please contact our team with your next event or activation enquiry.   Ruby has a Brisbane City Council Food Licence with a 5 star Eat Safe rating, Blue Cards and Public Liability Policy of $20 million.\r\n\r\nRetrosweetness - Ruby's bringing it!",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Ruby%20Little%20Red%20IceCream/ruby_logo_0.jpg?itok=Ch7Xo-aD",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Ruby%20the%20Little%20Red%20Ice%20Cream%20Van/ruby_sideshot.jpg?itok=xnOR6yjy",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.rubyicecream.com.au/",
+    "facebook_url": "https://www.facebook.com/rubyicecreamvan/",
+    "instagram_handle": "rubyicecreamvan",
+    "twitter_handle": "rubyicecreamvan",
+    "direccion": "Av. Marquez 3344, San Isidro",
+    "horario": "10.00 - 22.00hs",
+    "puntuacion": "5",
+    "rango": "5"
+  },
+  {
+    "truck_id": "121",
+    "name": "Sate House",
+    "category": "Asian",
+    "bio": "We offer modern Malaysian cuisine and also with an infusion of local flavors to deliver a unique experience combining both the West and the East. We offer a diverse range of menu across international bordes and we are capable of doing more. For all your catering needs, whether it be an event, markets, festivals, private or corporate function, we are ready to serve! Do contact us to find out more about what we can offer. \r\n\r\nWe strongly believe in delivering exceptional customer service while offering quality products to ensure that both our customers and organisers alike will have a good experience when dealing with us. ",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Sate%20House/sate_house_logo.jpg?itok=xVbi5t3c",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Sate%20House/food_van_bne.jpg?itok=L3vq5rH6",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.satehouse.com.au/",
+    "facebook_url": "https://www.facebook.com/satehouse/",
+    "instagram_handle": "satehouse",
+    "twitter_handle": "",
+    "direccion": "Av. Costanera S/N, Villurca",
+    "horario": "10.00 - 22.00hs",
+    "puntuacion": "5",
+    "rango": "3"
+  },
+  {
+    "truck_id": "131",
+    "name": "The Bun Mobile",
+    "category": "Asian",
+    "bio": "Voted Brisbane's best food truck 2014, 2015, 2016 2017\r\n Top 4 Steam Buns in the World (GQ Taiwan Business Magazine);\r\n  Featured in New York Times twice!!!\r\nINVITE us to your next party, wedding, event or function. The Bun Mobile Catering. 0401420922\r\n  Chef owned and operated;\r\n  A true gourmet food truck!",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/The%20Bun%20Mobile/ce38cbf6-c16f-40b8-a704-f4a0d4eb19be.jpeg?itok=gJ92roG6",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/The%20Bun%20Mobile/2a652933-fea2-41ee-8bf1-5368ed4287e0.jpeg?itok=TobIum98",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.thebunmobile.com.au/",
+    "facebook_url": "https://www.facebook.com/thebunmobile/",
+    "instagram_handle": "thebunmobile",
+    "twitter_handle": "TheBunMobile"
+  },
+  {
+    "truck_id": "146",
+    "name": "Mr America Food Truck",
+    "category": "American",
+    "bio": "Mr America Hotdogs and Fries is one of a kind American themed food truck / trailer, our business is based around the american love of food trucks!\r\n\r\nOur American hotdogs are the best this side of LA, so good the Americans hunt us down! We steam our buns and we steam our FRANKS!\r\n\r\n\t•\tAuthentic American hotdogs - the traditional hotdog through to the North Carolina BBQ Dog and Hound Dog!\r\n\t•\tFries and LOADED fries - Hot american french fries through to Mississippi Cajun Fries & Louisiana BBQ bacon fries!\r\n\t•\tBurgers - The humble traditional hamburger through to the Dirty Texan burger!\r\n\r\nContact us: events@mramerica.com.au\r\n",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Mr%20America/mr_america_logo.jpg?itok=KrKBcokJ",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Mr%20America%20Hotdogs%20and%20Fries/mr_america_5.jpg?itok=9uRgKKD2",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.mramerica.com.au",
+    "facebook_url": "https://www.facebook.com/mramericafoodtruck",
+    "instagram_handle": "mramericafoodtruck",
+    "twitter_handle": ""
+  },
+  {
+    "truck_id": "151",
+    "name": "How We Rolls",
+    "category": "BBQ / Meat Enthusiast",
+    "bio": "Toasty brioche rolls, stuffed with smoky spiced and seasoned meats, covered in house made sauces all resting on top of zingy fresh salads, brought to you in our little mobile food trailer in Brisbane, Australia.",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/How%20We%20Rolls/how_we_rolls_logo.jpg?itok=ehIB3Zq6",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/How%20We%20Rolls/how_we_rolls_hero_1.jpg?itok=SrSbuJWh",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://howwerolls.com/",
+    "facebook_url": "https://www.facebook.com/howwerolls/",
+    "instagram_handle": "howwerolls",
+    "twitter_handle": "howwerollsbne "
+  },
+  {
+    "truck_id": "1976",
+    "name": "Rolls Pho Mi",
+    "category": "Vietnamese",
+    "bio": "Rolls Pho Mi first hit the roads in March 2016, delivering Vietnamese street food to the people of Brisbane, Gold Coast and Sunshine Coast from their fiery red food trailer. Recreating traditional recipes acquired from mum Dung, husband and wife team Duy and Steph are serving up classics like fresh rice paper rolls, their signature 24hr pho, authentic banh mi and mouthwatering snacks. There are refreshments on offer too; slow dripped Vietnamese iced coffee, fresh young coconut juice topped with fresh fruit and lychee lemonade. The business is family owned and operated which means every dish is made just like mum's using fresh, hand-picked quality ingredients.",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Rolls%20Pho%20Mi/duybcc.jpg?itok=ooO86fph",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Rolls%20Pho%20Mi/rpm1.jpg?itok=1BNCJ53L",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.rollsphomi.com.au",
+    "facebook_url": "http://www.facebook.com.au/rollsphomi",
+    "instagram_handle": "rollsphomi",
+    "twitter_handle": "rollsphomi"
+  },
+  {
+    "truck_id": "2131",
+    "name": "Juice Power",
+    "category": "Juice",
+    "bio": "Here at Juice Power we are bringing freshly squeezed juices, smoothies, crushies, tea and coffee plus a range of healthy snacks such as fruit salads and salads in jars to a street near you.\r\nWe also offer the best Acai Bowls..all individually made to your tastes\r\nA full range of coffee and teas are also offered.we use organic Montville coffee with a choice of milks\r\nWe offer drinks made to order. Our motto is \"it's your drink\" so tell us exactly how you like it.\r\n\r\nSee you soon!",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Juice%20Power/img_1687.jpg?itok=uE0KHoVY",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Jessie%20Oliver/img_1617.jpg?itok=I3utFRL1",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.facebook.com/juicepower1",
+    "facebook_url": "https://www.facebook.com/juicepower1/",
+    "instagram_handle": "juicepower1",
+    "twitter_handle": "juicepower1"
+  },
+  {
+    "truck_id": "2141",
+    "name": "Cone Queen",
+    "category": "Dessert / Sweet",
+    "bio": "For over a decade, the Cone Queen has been tantalising the people of South-East Queensland with her delicious, high quality soft serve ice creams. When whipping out the ice creams from the eccentrically decorated window of her classic Bedford ice cream truck – ‘Betty’ – the Cone Queen says every ice cream is like “handing out a handful of happiness to a new friend!”",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Cone%20Queen/logo_0.jpg?itok=HNS9qodk",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/Jessie%20Oliver/pic_7565.jpg?itok=wnWcflDa",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.conequeen.com.au",
+    "facebook_url": "https://www.facebook.com/theconequeen/",
+    "instagram_handle": "conequeen",
+    "twitter_handle": "cone_queen"
+  },
+  {
+    "truck_id": "3241",
+    "name": "One World Food Truck",
+    "category": "Fusion",
+    "bio": "One World Food Truck is the creation of chef Jason Sierra. With a Spanish background he focuses on Spanish/Latin food however don’t be surprised if One World lives up to its name by serving up wonderful Italian fare or suprises you with other quirky creations, it’s a food truck with an open mind that’s fuelled by flavour and driven by passion. Some examples from our menu are the \"El Toro Loco Burger\", a \"Cubano\" sandwich, “One World Steak and Cheese Piadina”, “Pinchitos”, “Spicy wings” all served on homemade flat breads and brioche buns as vehicles for our yummy dishes.",
+    "avatar": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Jessie%20Oliver/13124886_1685476725050591_7061623722593519681_n.jpg?itok=B2ItYdsA",
+      "alt": "",
+      "title": ""
+    },
+    "cover_photo": {
+      "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/header/public/images/One%20World%20Food%20Truck/screenshot_20180408-105149_2.jpg?itok=o4JxM3o4",
+      "alt": "",
+      "title": ""
+    },
+    "website": "http://www.oneworldfoodtruck.com.au",
+    "facebook_url": "http://www.facebook.com/oneworldfoodtruck",
+    "instagram_handle": "oneworldfoodtruck",
+    "twitter_handle": ""
+  }
+]
