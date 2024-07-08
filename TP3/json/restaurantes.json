@@ -159,13 +159,14 @@
     "puntuacion": "3",
     "rango": "3",
     "menu": [
+
       {
         "id_plato": "1",
         "nombre": "Fully Loaded Fries",
         "category": "Especialidad, Korean.",
         "descripcion": "Papas fritas cargadas con queso mozzarella, Bulgogi beef, kimchi caramelizado, y alioli + mayonesa picante.",
         "precio": "9.99",
-        "img_url": "https://example.com/fully_loaded_fries.jpg"
+        "img_url": "https://i.pinimg.com/1200x/fa/c7/4a/fac74a5e0d468c62c95349adfbe868a3.jpg"
       },
       {
         "id_plato": "2",
@@ -173,7 +174,7 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Sliders con jugosas carnes de barbacoa coreana cocinadas a la perfección, servidas con vegetales en panecillos suaves.",
         "precio": "11.50",
-        "img_url": "https://example.com/korean_bbq_sliders.jpg"
+        "img_url": "https://www.killingthyme.net/wp-content/uploads/2017/08/Korean-BBQ-Jackfruit-Sliders-06.jpg"
       },
       {
         "id_plato": "3",
@@ -181,7 +182,7 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Bol con arroz cubierto de tierna carne de Bulgogi marinada, acompañado de verduras frescas.",
         "precio": "13.99",
-        "img_url": "https://example.com/bulgogi_beef_bowl.jpg"
+        "img_url": "https://th.bing.com/th/id/OIP.b6HA_gzgvfbqJH_kEOgnEAHaHM?rs=1&pid=ImgDetMain"
       },
       {
         "id_plato": "4",
@@ -189,7 +190,7 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Quesadillas rellenas de kimchi picante y queso derretido, servidas con salsa de sriracha.",
         "precio": "10.99",
-        "img_url": "https://example.com/kimchi_quesadillas.jpg"
+        "img_url": "https://th.bing.com/th/id/OIP.VSZdxKjUPehgJC6iSr3ckAHaHa?rs=1&pid=ImgDetMain"
       },
       {
         "id_plato": "5",
@@ -197,7 +198,7 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Tacos con carne de cerdo picante marinada, ensalada fresca y salsa de gochujang.",
         "precio": "8.99",
-        "img_url": "https://example.com/spicy_pork_tacos.jpg"
+        "img_url": "https://th.bing.com/th?id=OIF.gODrs8V%2bUgXemsgjCnOe%2fg&rs=1&pid=ImgDetMain"
       },
       {
         "id_plato": "6",
@@ -205,15 +206,15 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Pollo frito estilo coreano crujiente y jugoso, servido con salsa de miel y ajo.",
         "precio": "12.50",
-        "img_url": "https://example.com/korean_fried_chicken.jpg"
+        "img_url": "https://th.bing.com/th/id/OIP.qqXQsY-8cpqCBqd2q15kUQHaHa?rs=1&pid=ImgDetMain"
       },
       {
         "id_plato": "7",
         "nombre": "Bibimbap",
-        "category": "Especialidad, Korean.",
+        "category": "Especialidad, Korean",
         "descripcion": "Plato de arroz con vegetales salteados, huevo frito, carne de res marinada y gochujang.",
         "precio": "11.75",
-        "img_url": "https://example.com/bibimbap.jpg"
+        "img_url": "https://howtofeedaloon.com/wp-content/uploads/2016/02/bibimbap-feature-V21-1024x866.jpg"
       },
       {
         "id_plato": "8",
@@ -221,7 +222,7 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Pollo salteado con verduras y gochujang, servido con arroz.",
         "precio": "10.50",
-        "img_url": "https://example.com/dak_galbi.jpg"
+        "img_url": "https://th.bing.com/th/id/OIP.vDu76Bn49Ksx4iUNcNOFVQHaE9?rs=1&pid=ImgDetMain"
       },
       {
         "id_plato": "9",
@@ -229,7 +230,7 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Fideos de batata salteados con verduras y carne, aderezados con salsa de soja y aceite de sésamo.",
         "precio": "9.25",
-        "img_url": "https://example.com/japchae.jpg"
+        "img_url": "https://th.bing.com/th/id/R.bc2f03739596ed47b799d506770778d1?rik=BBmKu%2bBrl30N9Q&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f5d3a4c1ae616af0001b2aa15%2ft%2f5f729409c233677d46f3dabd%2f1601344525512%2fauthentic_japchae-37.jpg%3fformat%3d1500w&ehk=N0a%2bL3pqlSSMm4IEKK9ZTMAlnDDmUiQhDVUWIqIv6P8%3d&risl=&pid=ImgRaw&r=0"
       },
       {
         "id_plato": "10",
@@ -237,79 +238,79 @@
         "category": "Especialidad, Korean.",
         "descripcion": "Arroz frito con kimchi, tocino y huevo, sazonado con gochujang.",
         "precio": "8.75",
-        "img_url": "https://example.com/kimchi_fried_rice.jpg"
+        "img_url": "https://th.bing.com/th/id/OIP.PCMx-_abEDRnZlgQQ91WwwHaHa?rs=1&pid=ImgDetMain"
       }
     ],
     "resenas": [
     {
-      "namepers": "John Doe",
+      "namepers": "John ",
       "plato_desgusto": "Fully Loaded Fries",
       "descripcion_rese": "Las papas fritas estaban increíbles con el queso mozzarella derretido y el alioli picante.",
       "puntuacion_rese": "9",
-      "img_url_pers": ""
+      "img_url_pers": "https://thumbs.dreamstime.com/b/el-hombre-enojado-emocional-joven-que-grita-en-fondo-rojo-del-estudio-122126043.jpg"
     },
     {
-      "namepers": "Jane Smith",
+      "namepers": "Jane Smith Scarlet",
       "plato_desgusto": "Korean BBQ Sliders",
       "descripcion_rese": "Los sliders tenían una combinación perfecta de carne tierna y vegetales frescos.",
       "puntuacion_rese": "8",
-      "img_url_pers": ""
+      "img_url_pers": "https://th.bing.com/th/id/OIP.ezhQOCFnsEaw6NJwun7VPQHaHa?rs=1&pid=ImgDetMain"
     },
     {
-      "namepers": "Michael Johnson",
+      "namepers": "Frank",
       "plato_desgusto": "Bulgogi Beef Bowl",
       "descripcion_rese": "El bol de Bulgogi estaba muy sabroso con la carne marinada y las verduras frescas.",
       "puntuacion_rese": "9",
-      "img_url_pers": ""
+      "img_url_pers": "https://th.bing.com/th/id/OIP.ffuBrE7mU9QfJ0_k3CLO3AHaJ4?w=720&h=960&rs=1&pid=ImgDetMain"
     },
     {
-      "namepers": "Emily Brown",
+      "namepers": "Emilia Sanch ",
       "plato_desgusto": "Kimchi Quesadillas",
       "descripcion_rese": "Las quesadillas tenían un buen equilibrio entre el picante del kimchi y el queso derretido.",
       "puntuacion_rese": "7",
-      "img_url_pers": ""
+      "img_url_pers": "https://pbs.twimg.com/media/Ci_D61hVAAAdQrs.jpg"
     },
     {
-      "namepers": "David Garcia",
+      "namepers": "David Fernandez",
       "plato_desgusto": "Spicy Pork Tacos",
       "descripcion_rese": "Los tacos tenían un buen nivel de picante y la carne de cerdo estaba bien sazonada.",
       "puntuacion_rese": "8",
-      "img_url_pers": ""
+      "img_url_pers": "https://th.bing.com/th/id/R.8c59e317c69c2c9e8475ae1c4da0c7f0?rik=hZ4wIwrtVpuKMw&pid=ImgRaw&r=0"
     },
     {
-      "namepers": "Sarah Miller",
+      "namepers": "Sara Gonzalez",
       "plato_desgusto": "Korean Fried Chicken",
       "descripcion_rese": "El pollo frito coreano era crujiente por fuera y jugoso por dentro, muy sabroso.",
       "puntuacion_rese": "9",
-      "img_url_pers": ""
+      "img_url_pers": "https://th.bing.com/th/id/OIP.Tt2knD7CMWK1iHm6WPlAfwHaFj?rs=1&pid=ImgDetMain"
     },
     {
-      "namepers": "Daniel Wilson",
+      "namepers": "Daniel Diaz",
       "plato_desgusto": "Bibimbap",
       "descripcion_rese": "El Bibimbap tenía una combinación deliciosa de ingredientes y el huevo frito estaba perfectamente cocinado.",
       "puntuacion_rese": "7",
-      "img_url_pers": ""
+      "img_url_pers": "https://th.bing.com/th/id/OIP.DMDfV6N9jhYjyQCLGLlH5QAAAA?rs=1&pid=ImgDetMain"
     },
     {
-      "namepers": "Sophia Thompson",
+      "namepers": "Dana Thompson",
       "plato_desgusto": "Dak Galbi",
       "descripcion_rese": "El pollo salteado con gochujang estaba bien pero un poco salado para mi gusto.",
       "puntuacion_rese": "6",
-      "img_url_pers": ""
+      "img_url_pers": "https://th.bing.com/th/id/OIP.DHJSftP10vvMAKvjdQGwzwHaHa?rs=1&pid=ImgDetMain"
     },
     {
-      "namepers": "Alex Rodriguez",
+      "namepers": "Alex Smider",
       "plato_desgusto": "Japchae",
       "descripcion_rese": "Los fideos de batata salteados tenían un buen sabor pero eran un poco pesados.",
       "puntuacion_rese": "6",
-      "img_url_pers": ""
+      "img_url_pers": "https://i.pinimg.com/originals/2c/bc/83/2cbc83e3668f8c12669a2e6f54e9a7fa.jpg"
     },
     {
-      "namepers": "Isabella Martinez",
+      "namepers": "Mica Martinez",
       "plato_desgusto": "Kimchi Fried Rice",
       "descripcion_rese": "El arroz frito con kimchi estaba sabroso pero me pareció un poco seco.",
       "puntuacion_rese": "7",
-      "img_url_pers": ""
+      "img_url_pers": "https://p1.pxfuel.com/preview/673/39/730/woman-profile-at-dawn.jpg"
     }
   ]
 
@@ -426,7 +427,7 @@
         "plato_desgusto": "Tacos al Pastor",
         "descripcion_rese": "Los tacos estaban demasiado condimentados y la carne no era tan tierna como esperaba.",
         "puntuacion_rese": "4",
-        "img_url_pers": ""
+        "img_url_pers": "https://th.bing.com/th/id/OIP.w61w09StLDSv8EwRBXg3zQHaJ2?rs=1&pid=ImgDetMain"
       },
       {
         "namepers": "Olivia Garcia",
@@ -479,13 +480,11 @@
     }
   ]
   },
-
-
   {
     "truck_id": "96",
     "name": "Rolling Stone Pizza",
-    "category": "Pizza",
-    "bio": "The heat of our authentic wood-fired oven is matched only by our passion for great pizza. \r\nFrom the excitement of a local market in the city to the intimacy of a wedding reception on the coast, we take great\r\npride in raising the bar on the mobile dining experience.\r\nWe hold a 5 Star Eat Safe Rating with Brisbane City Council and use fresh, seasonal produce, sourced wherever possible from local producers across SE QLD.\r\nOur menu offers Gluten Free and Vegetarian options, along with traditional favourites and gourmet specials.\r\n\"Rolling In\" to a location near you soon!\r\n",
+    "category": "Especialidad,Pizza.",
+    "bio": "El calor de nuestro auténtico horno de leña solo es igualado por nuestra pasión por una excelente pizza. Desde la emoción de un mercado local en la ciudad hasta la intimidad de una recepción de boda en la costa, nos enorgullece elevar el estándar de la experiencia gastronómica móvil. Contamos con una calificación de 5 estrellas en el programa Eat Safe de la Municipalidad de Brisbane y utilizamos productos frescos y de temporada, obtenidos siempre que sea posible de productores locales de todo el sureste de Queensland. Nuestro menú ofrece opciones sin gluten y vegetarianas, junto con los favoritos tradicionales y especiales gourmet. ¡Rodando a una ubicación cerca de ti pronto!",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Rolling%20Stone%20Pizza/rspizza_bricks.png?itok=NEq3QsoB",
       "alt": "",
@@ -502,14 +501,120 @@
     "twitter_handle": "RSPizzaQLD",
     "direccion": "Colonia Carolla, Córdoba",
     "horario": "11.00 - 02.00hs",
+    "km": "1.5 KM",
+    "delivery":" delivery",
     "puntuacion": "4",
-    "rango": "3"
+    "rango": "3",
+    "menu": [
+    {
+      "id_plato": "1",
+      "nombre": "Pizza Margarita",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza clásica con salsa de tomate, mozzarella fresca y albahaca, cocida en horno de leña.",
+      "precio": "14.99",
+      "img_url": "https://th.bing.com/th/id/OIP.Ct04r0akZsrq4kJxbe_MBwHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id_plato": "2",
+      "nombre": "Pizza Pepperoni",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza tradicional con salsa de tomate, mozzarella y pepperoni, cocida a la perfección en horno de leña.",
+      "precio": "16.99",
+      "img_url": "https://th.bing.com/th/id/R.fd3ba3e8495417c8e185c4a0e35fd5fd?rik=Bmqku6W8xfEAzg&pid=ImgRaw&r=0"
+    },
+    {
+      "id_plato": "3",
+      "nombre": "Pizza Vegetariana",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza con una variedad de vegetales frescos de temporada y mozzarella, ideal para vegetarianos.",
+      "precio": "15.99",
+      "img_url": "https://th.bing.com/th/id/OIP.9ribAvQeqfsWt89D3VCm0QHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id_plato": "4",
+      "nombre": "Pizza Sin Gluten",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza hecha con masa sin gluten, cubierta con salsa de tomate y mozzarella fresca.",
+      "precio": "16.50",
+      "img_url": "https://th.bing.com/th/id/R.b6578f36b985b7fb9f03275897c9bf13?rik=r4d2k0Zle7bZAA&pid=ImgRaw&r=0"
+    },
+    {
+      "id_plato": "5",
+      "nombre": "Pizza Cuatro Quesos",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza gourmet con una mezcla de mozzarella, gorgonzola, parmesano y queso de cabra.",
+      "precio": "18.00",
+      "img_url": "https://th.bing.com/th/id/R.cdafc4b999941b183c7d23e7815650f3?rik=eQ%2fbzdU1vd3I8w&pid=ImgRaw&r=0"
+    },
+    {
+      "id_plato": "6",
+      "nombre": "Pizza Hawaiana",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza con salsa de tomate, mozzarella, jamón y piña, cocida en horno de leña.",
+      "precio": "16.50",
+      "img_url": "https://th.bing.com/th/id/OIP.w2hr8BbiCb7zlew3hZQRrQHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id_plato": "7",
+      "nombre": "Pizza Caprese",
+      "category": "Especialidad, Pizza",
+      "descripcion": "Pizza fresca con tomates, mozzarella de búfala, albahaca y un toque de aceite de oliva.",
+      "precio": "17.99",
+      "img_url": "https://th.bing.com/th/id/OIP.SnPzlIwiRywWSI1-zZ2H7wHaHa?rs=1&pid=ImgDetMain"
+    }
+  ],
+  "resenas":[
+    {
+      "namepers": "Alice Johnson",
+      "plato_desgusto": "Pizza Margarita",
+      "descripcion_rese": "La pizza Margarita estaba deliciosa. La masa era crujiente y los ingredientes frescos.",
+      "puntuacion_rese": "9",
+      "img_url_pers": "https://th.bing.com/th/id/OIP.8JdK25UzzEvCJx1UbN6fZQHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "namepers": "Brian Smith",
+      "plato_desgusto": "Pizza Pepperoni",
+      "descripcion_rese": "Demasiado grasosa para mi gusto. El pepperoni estaba un poco quemado.",
+      "puntuacion_rese": "5",
+      "img_url_pers": "https://th.bing.com/th/id/OIP.tc-Sp3WHidY-u-rvNS3n9wHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "namepers": "Catherine Lee",
+      "plato_desgusto": "Pizza Vegetariana",
+      "descripcion_rese": "Los vegetales estaban frescos y la pizza muy sabrosa. Una excelente opción vegetariana.",
+      "puntuacion_rese": "8",
+      "img_url_pers": "https://i.pinimg.com/originals/de/a6/19/dea6193aebfef4874e3d5c90c40c83b1.jpg"
+    },
+    {
+      "namepers": "David Brown",
+      "plato_desgusto": "Pizza Sin Gluten",
+      "descripcion_rese": "La masa sin gluten estaba muy seca y sin sabor.",
+      "puntuacion_rese": "4",
+      "img_url_pers": "https://th.bing.com/th/id/OIP.YgKHQ-p5Mp848UjkXsuAFgHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "namepers": "Bella Martinez",
+      "plato_desgusto": "Pizza Cuatro Quesos",
+      "descripcion_rese": "El equilibrio de los cuatro quesos era perfecto. Muy sabrosa y cremosa.",
+      "puntuacion_rese": "9",
+      "img_url_pers": "https://th.bing.com/th/id/OIP.i9FVfivCY0_Jba2nAksY3wHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "namepers": "Frank Wilson",
+      "plato_desgusto": "Pizza Hawaiana",
+      "descripcion_rese": "La combinación de jamón y piña no me gustó en absoluto.",
+      "puntuacion_rese": "4",
+      "img_url_pers": "https://th.bing.com/th/id/OIP.rDhCfeoFnI8subYkYqLSYwHaJ4?rs=1&pid=ImgDetMain"
+    }
+  ]
   },
+
+
   {
     "truck_id": "106",
     "name": "Catch and Kiss Seafood",
-    "category": "Seafood",
-    "bio": "Catch and Kiss started in Brisbane and in a short time built a strong following based on great food and friendly customer service. In time they have expanded to be able to offer a range of fresh seafood focused dishes to customers from their vintage Citroen H Van \"Claudette\" who is truly as beautiful as she is unique. Claudette's crew are renowned for having a variety of delicious seafood, such as  fresh oysters, Australian fish,  tender calamari and Australian prawns all served with  \"the best chips in the universe\" and seasonal salad etc. Is your mouth watering yet?\r\n\r\nClaudette is also available for private and corporate catering, weddings, parties and all other events and festivals with an adaptable menu. ",
+    "category": "Especialidad,Seafood.",
+    "bio": "Catch and Kiss comenzó en Brisbane y en poco tiempo construyó una gran cantidad de seguidores gracias a su excelente comida y su amable servicio al cliente. Con el tiempo, se han expandido para poder ofrecer una variedad de platos frescos centrados en mariscos a los clientes desde su camioneta vintage Citroen H Claudette, que es verdaderamente tan hermosa como única. La tripulación de Claudette es famosa por tener una variedad de deliciosos mariscos, como ostras frescas, pescado australiano, calamares tiernos y camarones australianos, todos servidos con las mejores papas fritas del universo y ensalada de temporada, etc. ¿Se te hace agua la boca ya?Claudette también está disponible para catering privado y corporativo, bodas, fiestas y todos los demás eventos y festivales con un menú adaptable. ",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Catch%20and%20Kiss%20Seafood/catchkiss-circluar-blue.png?itok=cTy90Q0P",
       "alt": "",
@@ -526,14 +631,155 @@
     "twitter_handle": "",
     "direccion": "Av. Santa Fé 3344, Palermo",
     "horario": "11.00 - 02.00hs",
+    "delivery": "No tiene delivery",
+    "km":"6.5 KM",
     "puntuacion": "3",
-    "rango": "4"
+    "rango": "4",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Ostras Frescas",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Ostras frescas del mar servidas con limón y salsa mignonette.",
+        "precio": "18.99",
+        "img_url": "https://th.bing.com/th/id/OIP.0b-FB7OUO4nQhNVo9ROeZgHaEy?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Pescado Australiano",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Filete de pescado australiano a la parrilla servido con ensalada de temporada y las mejores papas fritas del universo.",
+        "precio": "22.50",
+        "img_url": "https://th.bing.com/th/id/OIP.xTHeAUelBAZrD60YC4Q7uQAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Calamares Tiernos",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Calamares tiernos fritos servidos con alioli y ensalada de temporada.",
+        "precio": "19.75",
+        "img_url": "https://th.bing.com/th/id/OIP.TnQ_4oeU5VQAVO-46MYZzwHaDm?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Camarones Australianos",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Camarones australianos a la parrilla servidos con ensalada de temporada y las mejores papas fritas del universo.",
+        "precio": "21.99",
+        "img_url": "https://th.bing.com/th/id/OIP.BJXvSKeUNyjUlFhsuMJpnQHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Ensalada de Mariscos",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Ensalada de temporada con una mezcla de mariscos frescos, incluyendo camarones, calamares y pescado.",
+        "precio": "17.50",
+        "img_url": "https://th.bing.com/th/id/OIP.WkdZ-07Gw-lmk1qggLMuPQAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Langosta a la Parrilla",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Langosta australiana a la parrilla servida con mantequilla de ajo y ensalada de temporada.",
+        "precio": "34.99",
+        "img_url": "https://i.pinimg.com/originals/2f/df/2d/2fdf2dfaefe6baa120886f9edd5a7fce.jpg"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Mejillones en Salsa de Vino Blanco",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Mejillones frescos cocidos en una salsa de vino blanco y hierbas, servidos con pan crujiente.",
+        "precio": "20.99",
+        "img_url": "https://th.bing.com/th/id/OIP._0dBDtFKNzy8IbrhlDV4ngHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "8",
+        "nombre": "Tacos de Pescado",
+        "category": "Especialidad, Mariscos",
+        "descripcion": "Tacos rellenos de pescado australiano a la parrilla, ensalada de col y salsa de cilantro.",
+        "precio": "15.99",
+        "img_url": "https://th.bing.com/th/id/R.c4de013a0ee438eb413c3c5ae874f87e?rik=Rr9SyU8krqaCtw&pid=ImgRaw&r=0"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "Laura Gonzales",
+        "plato_desgusto": "Ostras Frescas",
+        "descripcion_rese": "Las ostras estaban frescas y deliciosas. Definitivamente volveré por más.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Miguel Fernandez",
+        "plato_desgusto": "Pescado Australiano",
+        "descripcion_rese": "El pescado estaba perfectamente cocido y las papas fritas eran increíbles.",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Sofia Ramirez",
+        "plato_desgusto": "Calamares Tiernos",
+        "descripcion_rese": "Los calamares estaban tiernos y el alioli delicioso. Una combinación perfecta.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.riAWWgNvkNyiUybPJEGsAAAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Carlos Martinez",
+        "plato_desgusto": "Camarones Australianos",
+        "descripcion_rese": "Los camarones estaban un poco secos y la ensalada no estaba muy fresca.",
+        "puntuacion_rese": "5",
+        "img_url_pers": "https://i.pinimg.com/736x/32/47/b1/3247b14ce514ff1eb9a3ef2b0cba1c83.jpg"
+      },
+      {
+        "namepers": "Ana López",
+        "plato_desgusto": "Ensalada de Mariscos",
+        "descripcion_rese": "La ensalada estaba bien, pero esperaba más mariscos en el plato.",
+        "puntuacion_rese": "6",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Diego Rivera",
+        "plato_desgusto": "Langosta a la Parrilla",
+        "descripcion_rese": "La langosta estaba deliciosa, pero el precio es un poco alto.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.d2MghC80dyiHcABwegSvlwHaLJ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Isabel Herrera",
+        "plato_desgusto": "Mejillones en Salsa de Vino Blanco",
+        "descripcion_rese": "Los mejillones estaban perfectamente cocidos y la salsa de vino blanco era exquisita.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://i.pinimg.com/originals/03/80/03/038003aa51c21dfb7e0e1fd86c2c5e91.jpg"
+      },
+      {
+        "namepers": "Jorge Navarro",
+        "plato_desgusto": "Tacos de Pescado",
+        "descripcion_rese": "Los tacos de pescado estaban muy buenos, pero el pescado estaba un poco seco.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Maria Valdez",
+        "plato_desgusto": "Ceviche de Mariscos",
+        "descripcion_rese": "El ceviche estaba fresco y muy bien sazonado. Una excelente opción.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.UvWpsuNa0vidHjqXG7Lp1QHaLH?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Pedro Gutierrez",
+        "plato_desgusto": "Fritura de Mariscos",
+        "descripcion_rese": "La fritura de mariscos estaba bien, pero las papas fritas no eran las mejores.",
+        "puntuacion_rese": "6",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      }
+    ]
   },
+
   {
     "truck_id": "116",
-    "name": "Ruby the Little Red Ice Cream Van",
-    "category": "Dessert / Sweet",
-    "bio": "'Ruby' is a  fully restored, original vintage ice cream van built in England in 1973.  She arrived in Australia in 2013 where she underwent full restoration, hitting the streets of Brisbane and surrounds in 2014. Her menu features freshly made soft serve ice cream creations using a state of the art, high capacity, Italian Carpigiani ice cream machine.   Ruby's premium ice cream is milk based, gluten free and halal certified.  The traditional menu features crowd favourites such as the iconic 99 flake, rainbow sprinkles, sherbet, choc top, rocket, sundae as well as Ruby's signature specials.  Vegan and dairy free options are always available and alternative gelato and sorbet menus are available on request.  \r\n\r\nRuby's pastry chef qualified team has over 20 years gelato and ice cream making experience.  The van's unique set up  and experienced team specialise in high volume ice cream catering and the creation of impact ice creams for marketing activations. Please contact our team with your next event or activation enquiry.   Ruby has a Brisbane City Council Food Licence with a 5 star Eat Safe rating, Blue Cards and Public Liability Policy of $20 million.\r\n\r\nRetrosweetness - Ruby's bringing it!",
+    "name": "Ruby's Ice Cream",
+    "category": "Especialidad,Dessert / Sweet.",
+    "bio": "'Ruby' es una camioneta de helados vintage restaurada en 1973 en Inglaterra y llegó a Australia en 2013. Ofrece helados suaves hechos con una máquina italiana Carpigiani. Su menú incluye opciones premium a base de leche, sin gluten y certificadas halal, con favoritos como el 99 flake y opciones veganas. El equipo tiene más de 20 años de experiencia en gelato y catering de helados. Ruby tiene licencia de alimentos de Brisbane con una calificación de 5 estrellas en Eat Safe y ofrece servicios para eventos y activaciones.Retrosweetness - ¡Ruby lo trae!",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Ruby%20Little%20Red%20IceCream/ruby_logo_0.jpg?itok=Ch7Xo-aD",
       "alt": "",
@@ -550,14 +796,126 @@
     "twitter_handle": "rubyicecreamvan",
     "direccion": "Av. Marquez 3344, San Isidro",
     "horario": "10.00 - 22.00hs",
+    "delivery":" delivery",
+    "km":"5.0 KM",
     "puntuacion": "5",
-    "rango": "5"
+    "rango": "5",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Helado 99 Flake",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Helado suave con un clásico 99 Flake y chispas de colores.",
+        "precio": "5.99",
+        "img_url": "https://th.bing.com/th/id/OIP.YhIXEM53RL4par32MgGx3AHaHa?w=500&h=500&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Sundae",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Helado suave con sirope, nueces, crema batida y cereza.",
+        "precio": "7.50",
+        "img_url": "https://th.bing.com/th/id/OIP.VY7Do80IIH9yKY45FW-cNQHaKs?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Choc Top",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Helado suave con cobertura de chocolate crujiente.",
+        "precio": "6.50",
+        "img_url": "https://th.bing.com/th/id/OIP.EhYWUu6QRIUCySUgp-Jw2QAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Gelato Vegano",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Opción vegana de gelato cremoso, disponible en varios sabores.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/OIP.dZ00IYO9WolWEQLpYLVVNwHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Sherbet",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Helado suave y refrescante, perfecto para días calurosos.",
+        "precio": "4.99",
+        "img_url": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps60698_SD153321D01_28_7b-2.jpg"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Rocket",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Helado suave con forma de cohete, ideal para los más pequeños.",
+        "precio": "6.99",
+        "img_url": "https://th.bing.com/th/id/OIP.Kx1Z1_jpWCeiiOCIQhpmnAHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Helado de Arcoíris",
+        "category": "Especialidades de Heladería",
+        "descripcion": "Helado suave con coloridos sprinkles de arcoíris.",
+        "precio": "5.50",
+        "img_url": "https://th.bing.com/th/id/OIP.4GRp2UMz3JBtUB78-s1HywHaHa?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "Elena Torres",
+        "plato_desgusto": "Helado 99 Flake",
+        "descripcion_rese": "El helado 99 Flake fue increíblemente cremoso y el chocolate crujiente del 99 Flake hizo que fuera una delicia.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Martín Sánchez",
+        "plato_desgusto": "Sundae",
+        "descripcion_rese": "El Sundae tenía una mezcla perfecta de nueces y sirope, ¡una combinación irresistible!",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Carolina Rodríguez",
+        "plato_desgusto": "Choc Top",
+        "descripcion_rese": "El Choc Top tenía una cobertura de chocolate crujiente que complementaba perfectamente el helado suave.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.qxnBsMFqFJ98LbZ2OTwdNQHaJQ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Andrés Gómez",
+        "plato_desgusto": "Gelato Vegano",
+        "descripcion_rese": "El Gelato Vegano era sorprendentemente cremoso y tenía un sabor delicioso sin lácteos.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://i.pinimg.com/736x/0d/cb/04/0dcb0494c44c75b4c8837ecf4ae89547.jpg"
+      },
+      {
+        "namepers": "Valeria López",
+        "plato_desgusto": "Sherbet",
+        "descripcion_rese": "El Sherbet era refrescante y exactamente lo que necesitaba en un día caluroso.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.8gK_QksXNKGUwMjsoLSBlwAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Alejandro Pérez",
+        "plato_desgusto": "Rocket",
+        "descripcion_rese": "El helado Rocket era divertido de comer con su forma de cohete y era perfecto para los niños.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.Y2m-UGR6ejwbnVesxaIbNQHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Martina Wicht",
+        "plato_desgusto": "Sherbet",
+        "descripcion_rese": "El helado Sherbet estaba riquisimo, hasta el punto que me pedi otro mas, son mis helados favoritos.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      }
+    ]
   },
+
   {
     "truck_id": "121",
     "name": "Sate House",
-    "category": "Asian",
-    "bio": "We offer modern Malaysian cuisine and also with an infusion of local flavors to deliver a unique experience combining both the West and the East. We offer a diverse range of menu across international bordes and we are capable of doing more. For all your catering needs, whether it be an event, markets, festivals, private or corporate function, we are ready to serve! Do contact us to find out more about what we can offer. \r\n\r\nWe strongly believe in delivering exceptional customer service while offering quality products to ensure that both our customers and organisers alike will have a good experience when dealing with us. ",
+    "category": "Especialidad,Asian.",
+    "bio": "Ofrecemos cocina malaya moderna con una fusión de sabores locales para brindar una experiencia única que combina el Occidente y el Oriente. Tenemos una amplia gama de menús internacionales y estamos capacitados para ofrecer más. Para todas sus necesidades de catering, ya sea para eventos, mercados, festivales, funciones privadas o corporativas, ¡estamos listos para servirle! Contáctenos para conocer más sobre lo que podemos ofrecer. \r\n\r\nCreemos firmemente en ofrecer un servicio al cliente excepcional mientras proporcionamos productos de calidad para asegurar que tanto nuestros clientes como los organizadores tengan una buena experiencia al tratar con nosotros.",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Sate%20House/sate_house_logo.jpg?itok=xVbi5t3c",
       "alt": "",
@@ -574,14 +932,82 @@
     "twitter_handle": "",
     "direccion": "Av. Costanera S/N, Villurca",
     "horario": "10.00 - 22.00hs",
+    "delivery":" delivery",
+    "km":"8.0 KM",
     "puntuacion": "5",
-    "rango": "3"
+    "rango": "3",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Nasi Lemak",
+        "category": "Especialidades de la Casa",
+        "descripcion": "Arroz cocido al vapor con leche de coco, servido con sambal, huevo duro, cacahuetes, pepino y anchovetas.",
+        "precio": "15.99",
+        "img_url": "https://th.bing.com/th/id/R.8aa32099f3692d1d5f43042bc7f3010c?rik=dkShXthpzT2mhw&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Satay",
+        "category": "Entradas",
+        "descripcion": "Brochetas de carne marinada a la parrilla, servidas con salsa de cacahuetes y acompañadas de arroz o pan plano.",
+        "precio": "12.50",
+        "img_url": "https://th.bing.com/th/id/OIP.HxBZ0fBKIDxX1eojIOKiqwAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Rendang",
+        "category": "Platos Principales",
+        "descripcion": "Curry de carne cocido a fuego lento con leche de coco y especias, acompañado de arroz al vapor.",
+        "precio": "18.99",
+        "img_url": "https://th.bing.com/th/id/OIP.nQztFAShNuib052_ly-Z7gAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Roti Canai",
+        "category": "Acompañamientos",
+        "descripcion": "Pan plano crujiente servido con curry de patata.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/R.3307ab906c95c4a68bc6655ad9695fa1?rik=uPP%2fJ9KANRSN4A&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Cendol",
+        "category": "Postres",
+        "descripcion": "Bebida de leche de coco con gelatina verde y azúcar de palma, servida con hielo picado.",
+        "precio": "6.50",
+        "img_url": "https://th.bing.com/th/id/R.0593e06ad0d68a8f011fec21769ff322?rik=Hdu3naVLITMRgA&pid=ImgRaw&r=0"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "María Fernández",
+        "plato_desgusto": "Nasi Lemak",
+        "descripcion_rese": "El Nasi Lemak estaba deliciosamente aromatizado con leche de coco y el sambal le dio el toque picante perfecto.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Pedro Martínez",
+        "plato_desgusto": "Satay",
+        "descripcion_rese": "El Satay era tierno y sabroso, con una salsa de cacahuetes que complementaba muy bien.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Luisa Sánchez",
+        "plato_desgusto": "Rendang",
+        "descripcion_rese": "El Rendang tenía una mezcla de especias perfecta y la carne estaba increíblemente tierna.",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      }
+    ]
   },
+
   {
     "truck_id": "131",
     "name": "The Bun Mobile",
-    "category": "Asian",
-    "bio": "Voted Brisbane's best food truck 2014, 2015, 2016 2017\r\n Top 4 Steam Buns in the World (GQ Taiwan Business Magazine);\r\n  Featured in New York Times twice!!!\r\nINVITE us to your next party, wedding, event or function. The Bun Mobile Catering. 0401420922\r\n  Chef owned and operated;\r\n  A true gourmet food truck!",
+    "category": "Especialidad,Asian.",
+    "bio": "Votado como el mejor food truck de Brisbane en 2014, 2015, 2016 y 2017.\r\nEntre los 4 mejores bao buns del mundo (GQ Taiwan Business Magazine).\r\n¡Destacado dos veces en el New York Times!\r\nINVÍTANOS a tu próxima fiesta, boda, evento o función. The Bun Mobile Catering. 0401420922.\r\nDirigido y operado por chefs.\r\n¡Un verdadero food truck gourmet!",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/The%20Bun%20Mobile/ce38cbf6-c16f-40b8-a704-f4a0d4eb19be.jpeg?itok=gJ92roG6",
       "alt": "",
@@ -595,13 +1021,144 @@
     "website": "http://www.thebunmobile.com.au/",
     "facebook_url": "https://www.facebook.com/thebunmobile/",
     "instagram_handle": "thebunmobile",
-    "twitter_handle": "TheBunMobile"
+    "twitter_handle": "TheBunMobile",
+    "horario":"9.00 - 03.00hs",
+    "delivery":"No tiene delivery",
+    "km":"2.3 KM",
+    "puntuacion": "9",
+    "rango": "3",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Bao Bun de Cerdo al Estilo Asiático",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de cerdo marinado con especias asiáticas, acompañado de vegetales frescos y salsa especial.",
+        "precio": "10.99",
+        "img_url": "https://th.bing.com/th/id/OIP.OmutuwpLXRZV4OxXWfgK8gHaE7?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Bao Bun de Pollo Teriyaki",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de pollo teriyaki glaseado, con ensalada de col y salsa de teriyaki.",
+        "precio": "12.50",
+        "img_url": "https://th.bing.com/th/id/OIP.c0Y1NVZY7Dpn1-CM8YCilQHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Bao Bun Vegano",
+        "category": "Especialidades",
+        "descripcion": "Bao bun vegano relleno de tofu marinado con especias, acompañado de vegetales frescos y salsa vegana.",
+        "precio": "11.99",
+        "img_url": "https://th.bing.com/th/id/OIP.Jz8_TL1C5Lg3v668zOYbJgAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Bao Bun de Camarones Tempura",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de camarones tempura crujientes, con ensalada fresca y salsa especial.",
+        "precio": "13.99",
+        "img_url": "https://th.bing.com/th/id/OIP.P94kvCGy1IeVvh097Ojl2AHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Bao Bun de Res Barbacoa",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de carne de res marinada en salsa barbacoa, con ensalada de pepinillos y cebolla caramelizada.",
+        "precio": "14.50",
+        "img_url": "https://th.bing.com/th/id/OIP.lxUVTqxtwoaNIar-HSgNRwHaFS?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Bao Bun de Pato Hoisin",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de pato asado con salsa hoisin, servido con ensalada de pepino y cebollino.",
+        "precio": "15.50",
+        "img_url": "https://th.bing.com/th/id/OIP.EWUY8-fRAvf-_QqecFhXyQHaFJ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Bao Bun de Calamares Fritos",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de calamares fritos crujientes, con ensalada de repollo y alioli de ajo.",
+        "precio": "13.50",
+        "img_url": "https://th.bing.com/th/id/OIP.4Jp6iXdDeULToLEaogWW7gHaEL?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "8",
+        "nombre": "Bao Bun de Berenjena Asada",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de berenjena asada con salsa de soja dulce, acompañado de encurtidos y cilantro fresco.",
+        "precio": "12.99",
+        "img_url": "https://th.bing.com/th/id/OIP.q21HYrPSgml9h2yH9jzETwHaEV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "9",
+        "nombre": "Bao Bun de Ternera Teriyaki",
+        "category": "Especialidades",
+        "descripcion": "Bao bun relleno de ternera salteada en salsa teriyaki, con ensalada de brotes y cebolla crujiente.",
+        "precio": "14.99",
+        "img_url": "https://th.bing.com/th/id/OIP.c0Y1NVZY7Dpn1-CM8YCilQHaE8?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "María Fernández",
+        "plato_desgusto": "Bao Bun de Cerdo al Estilo Asiático",
+        "descripcion_rese": "Me encantó el Bao Bun de Cerdo al Estilo Asiático, la combinación de especias asiáticas con la carne tierna y la salsa especial fue perfecta.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://pbs.twimg.com/profile_images/1065659881040965632/JPk7kS04_400x400.jpg"
+      },
+      {
+        "namepers": "Javier Gómez",
+        "plato_desgusto": "Bao Bun de Pollo Teriyaki",
+        "descripcion_rese": "El Bao Bun de Pollo Teriyaki tenía un sabor increíblemente bueno, el pollo estaba jugoso y la salsa de teriyaki era deliciosa.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://th.bing.com/th/id/R.e217b2d242c3d22b0bb45c15cf022d88?rik=ZYApjJvPjgUh8A&pid=ImgRaw&r=0"
+      },
+      {
+        "namepers": "Laura Pérez",
+        "plato_desgusto": "Bao Bun Vegano",
+        "descripcion_rese": "Probé el Bao Bun Vegano y quedé impresionada por lo sabroso que era, el tofu marinado estaba perfectamente sazonado.",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.mBdIHL7_tNiwqwEVLsFLZgHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Andrés López",
+        "plato_desgusto": "Bao Bun de Camarones Tempura",
+        "descripcion_rese": "Los camarones tempura del Bao Bun estaban crujientes y frescos, definitivamente recomendaría este plato.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.2cOe4ej-roywKGJXcvQQUQHaF7?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Ana Martín",
+        "plato_desgusto": "Bao Bun de Res Barbacoa",
+        "descripcion_rese": "El Bao Bun de Res Barbacoa tenía una carne jugosa y sabrosa, la combinación con los pepinillos y la cebolla caramelizada era excelente.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Diego Rodríguez",
+        "plato_desgusto": "Bao Bun de Pato Hoisin",
+        "descripcion_rese": "Probé el Bao Bun de Pato Hoisin y me encantó el sabor ahumado del pato junto con la salsa hoisin, realmente delicioso.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Carolina Sánchez",
+        "plato_desgusto": "Bao Bun de Calamares Fritos",
+        "descripcion_rese": "Los calamares fritos del Bao Bun estaban crujientes por fuera y tiernos por dentro, me sorprendió lo bien preparados que estaban.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      }
+    ]
   },
+
   {
     "truck_id": "146",
     "name": "Mr America Food Truck",
-    "category": "American",
-    "bio": "Mr America Hotdogs and Fries is one of a kind American themed food truck / trailer, our business is based around the american love of food trucks!\r\n\r\nOur American hotdogs are the best this side of LA, so good the Americans hunt us down! We steam our buns and we steam our FRANKS!\r\n\r\n\t•\tAuthentic American hotdogs - the traditional hotdog through to the North Carolina BBQ Dog and Hound Dog!\r\n\t•\tFries and LOADED fries - Hot american french fries through to Mississippi Cajun Fries & Louisiana BBQ bacon fries!\r\n\t•\tBurgers - The humble traditional hamburger through to the Dirty Texan burger!\r\n\r\nContact us: events@mramerica.com.au\r\n",
+    "category": "Especialidad,American.",
+    "bio": "Mr America Hotdogs and Fries es un food truck  remolque único con temática americana, nuestro negocio se basa en el amor americano por los food trucks!\r\n\r\nNuestros hotdogs americanos son los mejores de este lado de Los Ángeles, ¡tan buenos que los americanos nos buscan! ¡Cocemos al vapor nuestros panecillos y también nuestros FRANKS!\r\n\r\nHotdogs americanos auténticos, desde el hotdog tradicional hasta el North Carolina BBQ Dog y el Hound Dog!\r\n\r\nPapas fritas y papas fritas CARGADAS, desde las clásicas papas fritas americanas hasta las papas fritas Cajún de Mississippi y las papas fritas Louisiana BBQ con tocino!\r\n\r\nHamburguesas, desde la humilde hamburguesa tradicional hasta la Dirty Texan burger!\r\n\r\nContáctenos: events@mramerica.com.au",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Mr%20America/mr_america_logo.jpg?itok=KrKBcokJ",
       "alt": "",
@@ -615,13 +1172,120 @@
     "website": "http://www.mramerica.com.au",
     "facebook_url": "https://www.facebook.com/mramericafoodtruck",
     "instagram_handle": "mramericafoodtruck",
-    "twitter_handle": ""
+    "twitter_handle": "",
+    "delivery":" delivery",
+    "km":"7.5 KM",
+    "horario":"08.00 - 22.00hs",
+    "puntuacion":"9",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Hotdog Tradicional Americano",
+        "category": "Especialidades Americanas",
+        "descripcion": "Hotdog clásico americano con salchicha al vapor en panecillo, acompañado de mostaza, ketchup y pepinillos.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/OIP.ko4utjR-Sh-hqfrF1CC60AHaE7?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "North Carolina BBQ Dog",
+        "category": "Especialidades Americanas",
+        "descripcion": "Hotdog con salchicha al vapor en panecillo, cubierto con salsa barbacoa estilo Carolina del Norte y coleslaw.",
+        "precio": "10.50",
+        "img_url": "https://th.bing.com/th/id/OIP.TbLRewayxokwsOI0YYVb8gHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Hound Dog",
+        "category": "Especialidades Americanas",
+        "descripcion": "Hotdog con salchicha al vapor en panecillo, servido con chili con carne, queso cheddar rallado y cebollas crujientes.",
+        "precio": "11.99",
+        "img_url": "https://th.bing.com/th/id/OIP.ZItHIEUgXdRH5NR57uUx8gHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Papas Fritas Americanas",
+        "category": "Acompañamientos",
+        "descripcion": "Papas fritas clásicas americanas, crujientes por fuera y tiernas por dentro, servidas con salsa de queso.",
+        "precio": "5.99",
+        "img_url": "https://th.bing.com/th/id/OIP.BJRutvvLDWP_HTCx2_pxKgHaE7?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Papas Fritas Cajún de Mississippi",
+        "category": "Acompañamientos",
+        "descripcion": "Papas fritas sazonadas con especias Cajún, picantes y sabrosas, acompañadas de salsa especial.",
+        "precio": "6.50",
+        "img_url": "https://okdiario.com/img/2019/08/15/receta-de-patatas-cajun-al-microondas.jpg"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Papas Fritas Louisiana BBQ con Tocino",
+        "category": "Acompañamientos",
+        "descripcion": "Papas fritas cubiertas con salsa barbacoa estilo Louisiana y trozos crujientes de tocino.",
+        "precio": "7.50",
+        "img_url": "https://tb-static.uber.com/prod/image-proc/processed_images/c6f8f82fb50135c5aef29da29bfc97ac/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Hamburguesa Tradicional Americana",
+        "category": "Especialidades Americanas",
+        "descripcion": "Hamburguesa clásica americana con carne a la parrilla, lechuga, tomate, cebolla y salsa especial, servida en un panecillo tostado.",
+        "precio": "12.99",
+        "img_url": "https://th.bing.com/th/id/OIP.jQOACbEpOjLyiutrjhT7VgHaEK?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "Elena Gutiérrez",
+        "plato_desgusto": "Hotdog Tradicional Americano",
+        "descripcion_rese": "El Hotdog Tradicional Americano era perfectamente cocido al vapor y tenía el equilibrio justo de condimentos clásicos.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.i9FVfivCY0_Jba2nAksY3wHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Andrés Navarro",
+        "plato_desgusto": "North Carolina BBQ Dog",
+        "descripcion_rese": "El North Carolina BBQ Dog tenía una salsa barbacoa deliciosa y el coleslaw agregaba un toque fresco y crujiente.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://wl-genial.cf.tsp.li/resize/728x/jpg/f6e/ef6/b5b68253409b796f61f6ecd1f1.jpg"
+      },
+      {
+        "namepers": "María Martínez",
+        "plato_desgusto": "Papas Fritas Americanas",
+        "descripcion_rese": "Las Papas Fritas Americanas eran crujientes por fuera y suaves por dentro, ideales para acompañar cualquier plato del food truck.",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://th.bing.com/th/id/R.e452b42e6ae0afacf898acc92b3e5e87?rik=aU1mdj0rpv13BA&pid=ImgRaw&r=0"
+      },
+      {
+        "namepers": "Alejandro Vargas",
+        "plato_desgusto": "Dirty Texan Burger",
+        "descripcion_rese": "La Dirty Texan Burger era una explosión de sabores con el queso cheddar, tocino crujiente y la salsa BBQ, ¡muy recomendada!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.hWgyH0pdL9iKOptQV0S0XAHaHN?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Laura Díaz",
+        "plato_desgusto": "Bao Bun de Pollo Teriyaki",
+        "descripcion_rese": "El Bao Bun de Pollo Teriyaki estaba muy bien sazonado y el pollo era jugoso, una combinación excelente de sabores.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.shuk_wo_OKw0b26v-iVjtAHaHa?w=480&h=481&rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Carlos Fernández",
+        "plato_desgusto": "Papas Fritas Cajún de Mississippi",
+        "descripcion_rese": "Las Papas Fritas Cajún de Mississippi tenían un toque picante perfecto y la salsa especial las hacía aún más sabrosas.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://i.pinimg.com/736x/2c/57/6b/2c576b8ec9d53ab1cd0986938bb5a73f.jpg"
+      }
+    ]
   },
+
   {
     "truck_id": "151",
     "name": "How We Rolls",
-    "category": "BBQ / Meat Enthusiast",
-    "bio": "Toasty brioche rolls, stuffed with smoky spiced and seasoned meats, covered in house made sauces all resting on top of zingy fresh salads, brought to you in our little mobile food trailer in Brisbane, Australia.",
+    "category": "Especialidad,BBQ / Meat Enthusiast.",
+    "bio": "Panecillos brioche tostados, rellenos de carnes ahumadas, condimentadas con especias y sazonadas, cubiertas con salsas caseras, todo sobre ensaladas frescas y vibrantes, presentado en nuestro pequeño remolque de comida móvil en Brisbane, Australia.",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/How%20We%20Rolls/how_we_rolls_logo.jpg?itok=ehIB3Zq6",
       "alt": "",
@@ -635,14 +1299,146 @@
     "website": "http://howwerolls.com/",
     "facebook_url": "https://www.facebook.com/howwerolls/",
     "instagram_handle": "howwerolls",
-    "twitter_handle": "howwerollsbne "
+    "twitter_handle": "howwerollsbne ",
+    "horario":"12.00 - 19.00hs",
+    "delivery":"No tiene delivery",
+    "km":"10.5 KM",
+    "puntuacion":"8",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Bocadillos de Pan Brioche Ahumado",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Panecillos brioche tostados, rellenos de carnes ahumadas con especias y sazonadas, cubiertos con salsas caseras y servidos sobre ensaladas frescas y vibrantes.",
+        "precio": "11.99",
+        "img_url": "https://th.bing.com/th/id/OIP.WG238KICog0yoWUro_KbAQHaEK?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Ensalada Fresca y Vibrante",
+        "category": "Ensaladas",
+        "descripcion": "Ensalada fresca con ingredientes seleccionados y aderezos caseros, ideal como acompañamiento o plato principal.",
+        "precio": "7.50",
+        "img_url": "https://th.bing.com/th/id/OIP.Sj6QZo7cXlrCMbx39YyrXAHaEJ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Burger de Carne Ahumada",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Hamburguesa de carne ahumada con especias, servida en un panecillo brioche tostado y acompañada de salsa casera y ensalada fresca.",
+        "precio": "13.50",
+        "img_url": "https://th.bing.com/th/id/OIP.ijsI3euCD2SaR78cd9461gHaEK?w=1820&h=1024&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Papas Fritas Especiadas",
+        "category": "Acompañamientos",
+        "descripcion": "Papas fritas crujientes sazonadas con especias caseras, perfectas para acompañar cualquier plato principal.",
+        "precio": "5.99",
+        "img_url": "https://th.bing.com/th/id/OIP.K7oDUXnjerg3riI1kqcPCwHaEH?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Rollitos de Primavera de Pollo Ahumado",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Rollitos de primavera rellenos de pollo ahumado y vegetales frescos, acompañados de salsa agridulce casera.",
+        "precio": "9.99",
+        "img_url": "https://th.bing.com/th/id/OIP.TXGQPYH-p4_M5s4Bw_FawQHaGk?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Tacos de Cerdo Ahumado",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Tortillas de maíz rellenas de cerdo ahumado con especias, acompañadas de guacamole casero y salsa picante.",
+        "precio": "10.50",
+        "img_url": "https://th.bing.com/th/id/OIP.BVnJhNRgIgskeFw-1VT0mwHaFj?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Pollo al Horno con Salsa de Hierbas",
+        "category": "Platos Principales",
+        "descripcion": "Pechuga de pollo horneada con una salsa de hierbas frescas, servida con papas asadas y vegetales al vapor.",
+        "precio": "12.99",
+        "img_url": "https://th.bing.com/th/id/OIP.lyTQrePsIiq5bGXV9XdYLgHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "8",
+        "nombre": "Sándwich de Pavo Ahumado",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Sándwich con rebanadas de pavo ahumado, queso cheddar derretido, tomate fresco y lechuga crujiente, en pan de cereales tostado.",
+        "precio": "9.50",
+        "img_url": "https://th.bing.com/th/id/OIP.R7h0uN50YiHIXwiURrEi6gHaE7?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "9",
+        "nombre": "Wrap de Vegetales a la Parrilla",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Wrap de tortilla relleno de vegetales a la parrilla, queso mozzarella derretido y aderezo de cilantro y limón.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/OIP.ZAC8zMSiemdPHCmCaXyLGQHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "10",
+        "nombre": "Ceviche de Camarones Frescos",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Camarones frescos marinados en jugo de limón y naranja, con cebolla morada, cilantro fresco y chiles picados, servidos con tostadas de maíz.",
+        "precio": "14.99",
+        "img_url": "https://th.bing.com/th/id/OIP.yWCiX23uc39fROaW4G7vHwAAAA?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "María García",
+        "plato_desgusto": "Bocadillos de Pan Brioche Ahumado",
+        "descripcion_rese": "Me encantó el sabor ahumado de la carne y la frescura de las ensaladas. ¡Una combinación perfecta!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Roberto Martínez",
+        "plato_desgusto": "Tacos de Cerdo Ahumado",
+        "descripcion_rese": "Los tacos estaban deliciosos, muy bien sazonados y el guacamole era excelente.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://i.pinimg.com/474x/13/1c/0f/131c0f4ce81639da4b6f93c3ae6ae81f.jpg"
+      },
+      {
+        "namepers": "Laura Pérez",
+        "plato_desgusto": "Pollo al Horno con Salsa de Hierbas",
+        "descripcion_rese": "El pollo estaba muy jugoso y la salsa de hierbas le daba un sabor increíble. Muy recomendable.",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.QYyfM2hDWuPcs-3Dhr657AHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Marta Rodríguez",
+        "plato_desgusto": "Sándwich de Pavo Ahumado",
+        "descripcion_rese": "El sándwich tenía el equilibrio perfecto entre el pavo ahumado, el queso y los vegetales frescos. ¡Muy sabroso!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.Bx8GYpnoK-zxrbP8F-qQ_wHaJ3?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Ana Fernández",
+        "plato_desgusto": "Wrap de Vegetales a la Parrilla",
+        "descripcion_rese": "El wrap estaba lleno de sabor con los vegetales a la parrilla y el aderezo de cilantro. Me gustó mucho.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+        "namepers": "Pedro Gómez",
+        "plato_desgusto": "Ceviche de Camarones Frescos",
+        "descripcion_rese": "El ceviche estaba muy fresco y bien sazonado. Los camarones eran perfectos con las tostadas de maíz.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      }
+    ]
   },
+
   {
     "truck_id": "1976",
     "name": "Rolls Pho Mi",
-    "category": "Vietnamese",
-    "bio": "Rolls Pho Mi first hit the roads in March 2016, delivering Vietnamese street food to the people of Brisbane, Gold Coast and Sunshine Coast from their fiery red food trailer. Recreating traditional recipes acquired from mum Dung, husband and wife team Duy and Steph are serving up classics like fresh rice paper rolls, their signature 24hr pho, authentic banh mi and mouthwatering snacks. There are refreshments on offer too; slow dripped Vietnamese iced coffee, fresh young coconut juice topped with fresh fruit and lychee lemonade. The business is family owned and operated which means every dish is made just like mum's using fresh, hand-picked quality ingredients.",
+    "category": "Especialidad,Vietnamese.",
+    "bio": "Rolls Pho Mi comenzó en marzo de 2016, llevando comida callejera vietnamita a Brisbane, Gold Coast y Sunshine Coast desde su llamativo remolque rojo. Duy y Steph, esposos y equipo detrás del negocio familiar, recrean recetas tradicionales adquiridas de su mamá Dung. Ofrecen clásicos como rolls frescos de papel de arroz, su distintiva pho de 24 horas, auténticos banh mi y tentadores snacks. También tienen bebidas refrescantes como café vietnamita de goteo lento, jugo fresco de coco joven con frutas frescas y limonada de lichis. Cada plato se prepara como en casa, con ingredientes frescos y seleccionados a mano.",
     "avatar": {
+
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Rolls%20Pho%20Mi/duybcc.jpg?itok=ooO86fph",
       "alt": "",
       "title": ""
@@ -655,13 +1451,137 @@
     "website": "http://www.rollsphomi.com.au",
     "facebook_url": "http://www.facebook.com.au/rollsphomi",
     "instagram_handle": "rollsphomi",
-    "twitter_handle": "rollsphomi"
+    "twitter_handle": "rollsphomi",
+    "puntuacion":"7",
+    "delivery":" delivery",
+    "km":"0.5 KM",
+    "horario":"13.00 - 23.00hs",
+    "menu":[
+
+      {
+
+        "id_plato": "1",
+        "nombre": "Banh Mi de Pollo Asado",
+        "category": "Especialidades vietnamitas",
+        "descripcion": "Banh mi tradicional con pollo asado marinado en especias vietnamitas, acompañado de vegetales frescos, cilantro y jalapeños, servido en un pan baguette crujiente y ligeramente tostado.",
+        "precio": "9.99",
+        "img_url": "https://th.bing.com/th/id/OIP.DGC_pF7rce2uEd00Z-meUAHaE0?rs=1&pid=ImgDetMain"
+      },
+      {
+
+        "id_plato": "2",
+        "nombre": "Pho de Ternera",
+        "category": "Sopas vietnamitas",
+        "descripcion": "Sopa de fideos de arroz con caldo de ternera cocido a fuego lento durante horas, servida con finas rebanadas de ternera, hierbas frescas y lima. Un plato reconfortante y lleno de sabor.",
+        "precio": "12.50",
+        "img_url": "https://placeralplato.com/files/2016/10/Pho-de-ternera-400x286.jpg"
+      },
+      {
+
+        "id_plato": "3",
+        "nombre": "Rolls Frescos de Papel de Arroz",
+        "category": "Entrantes vietnamitas",
+        "descripcion": "Rolls frescos de papel de arroz rellenos de camarones frescos, vermicelli de arroz, hierbas aromáticas y envueltos en papel de arroz transparente. Se sirven con salsa de maní.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/OIP.909vEq2VJoJUvILHYUT65gHaDS?rs=1&pid=ImgDetMain"
+      },
+      {
+
+        "id_plato": "4",
+        "nombre": "Bocadillos de Pan Brioche Ahumado",
+        "category": "Especialidades de Brisbane",
+        "descripcion": "Panecillos brioche tostados, rellenos de carnes ahumadas con especias y sazonadas, cubiertos con salsas caseras y servidos sobre ensaladas frescas y vibrantes.",
+        "precio": "11.99",
+        "img_url": "https://th.bing.com/th/id/OIP.kGq2L2drol3ewC4HwXmFvAHaE7?rs=1&pid=ImgDetMain"
+      },
+      {
+
+        "id_plato": "5",
+        "nombre": "Ensalada de Mango Verde",
+        "category": "Ensaladas tropicales",
+        "descripcion": "Ensalada refrescante con mango verde cortado en juliana, zanahorias ralladas, hierbas frescas, cacahuetes tostados y aderezo de lima y chile. Perfecta para un día caluroso.",
+        "precio": "7.50",
+        "img_url": "https://th.bing.com/th/id/R.46f0fb64d961965b031a8c92360afa7c?rik=ZWSJ8xZFbODjvQ&pid=ImgRaw&r=0"
+      },
+      {
+
+        "id_plato": "6",
+        "nombre": "Pho Vegetariano",
+        "category": "Sopas vietnamitas",
+        "descripcion": "Sopa de fideos de arroz con caldo de vegetales cocido lentamente, servida con tofu marinado, setas frescas, hierbas aromáticas y lima. Una opción deliciosa y saludable.",
+        "precio": "10.99",
+        "img_url": "https://th.bing.com/th/id/OIP.LNyPP9g_gQDCG-mNc5gANgHaLG?rs=1&pid=ImgDetMain"
+      },
+      {
+
+        "id_plato": "7",
+        "nombre": "Banh Xeo",
+        "category": "Platos principales vietnamitas",
+        "descripcion": "Crepes de arroz crujientes rellenos de camarones, carne de cerdo, brotes de soja y envueltos en hojas de lechuga con hierbas frescas. Se sirve con salsa de pescado.",
+        "precio": "13.25",
+        "img_url": "https://th.bing.com/th/id/OIP.YvUM97C7oc55OnotKs8MZgHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+
+        "id_plato": "8",
+        "nombre": "Budín de Tapioca con Coco",
+        "category": "Postres vietnamitas",
+        "descripcion": "Pudín de tapioca hecho con leche de coco, servido frío con coco rallado y semillas de sésamo tostadas. Un postre cremoso y aromático para terminar la comida.",
+        "precio": "5.99",
+        "img_url": "https://okdiario.com/img/2021/06/23/receta-de-pudin-de-tapioca-y-coco-al-estilo-brasileno.jpg"
+      }
+    ],
+    "resenas":[
+
+      {
+
+        "namepers": "Carlos Martínez",
+        "plato_desgusto": "Pho de Ternera",
+        "descripcion_rese": "El pho de ternera tenía un caldo profundamente aromático y la carne estaba perfectamente cocida. ¡Una delicia reconfortante!",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://images.genius.com/5ef9ad00eb55dd242e7486374a4bdc44.499x499x1.jpg"
+      },
+      {
+
+        "namepers": "Ana López",
+        "plato_desgusto": "Banh Xeo",
+        "descripcion_rese": "El banh xeo estaba crujiente por fuera y lleno de sabores frescos y mariscos jugosos por dentro. ¡Una explosión de sabor!",
+        "puntuacion_rese": "10",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+
+        "namepers": "Javier Rodríguez",
+        "plato_desgusto": "Rolls Frescos de Papel de Arroz",
+        "descripcion_rese": "Los rolls frescos de papel de arroz eran ligeros y sabrosos, con camarones frescos y una salsa de maní deliciosa. ¡Perfecto para un día caluroso!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://i.pinimg.com/originals/be/21/74/be2174b365f77a957de3f6cba38b51fc.jpg"
+      },
+
+      {
+
+        "namepers": "Laura Sánchez",
+        "plato_desgusto": "Ensalada de Mango Verde",
+        "descripcion_rese": "La ensalada de mango verde era refrescante y el aderezo de lima y chile le daba un toque picante justo. ¡Ideal como acompañamiento o plato principal ligero!",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://img.blogs.es/anexom/wp-content/uploads/2016/04/foto-perfil.jpg"
+      },
+      {
+
+        "namepers": "María García",
+        "plato_desgusto": "Bocadillos de Pan Brioche Ahumado",
+        "descripcion_rese": "Me encantó el sabor ahumado de la carne y la frescura de las ensaladas. ¡Una combinación perfecta!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/R.72f8385e36e518bd366b5d2c96d9caf9?rik=N%2bq2Cu8VNEJ%2bag&pid=ImgRaw&r=0"
+      }
+    ]
   },
+
   {
     "truck_id": "2131",
     "name": "Juice Power",
-    "category": "Juice",
-    "bio": "Here at Juice Power we are bringing freshly squeezed juices, smoothies, crushies, tea and coffee plus a range of healthy snacks such as fruit salads and salads in jars to a street near you.\r\nWe also offer the best Acai Bowls..all individually made to your tastes\r\nA full range of coffee and teas are also offered.we use organic Montville coffee with a choice of milks\r\nWe offer drinks made to order. Our motto is \"it's your drink\" so tell us exactly how you like it.\r\n\r\nSee you soon!",
+    "category": "Especialidad,Juice.",
+    "bio": "Aquí en Juice Power, ofrecemos jugos exprimidos al momento, batidos, licuados, tés y cafés, además de una variedad de snacks saludables como ensaladas de frutas y ensaladas en tarros, en una calle cerca de ti.\r\nTambién contamos con los mejores Acai Bowls, todos hechos individualmente a tu gusto.\r\nOfrecemos una amplia gama de cafés y tés, utilizando café orgánico de Montville con una selección de leches.\r\nPreparamos las bebidas a tu medida. Nuestro lema es es tu bebida, así que dinos exactamente cómo te gusta.\r\n¡Nos vemos pronto!",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Juice%20Power/img_1687.jpg?itok=uE0KHoVY",
       "alt": "",
@@ -675,13 +1595,112 @@
     "website": "http://www.facebook.com/juicepower1",
     "facebook_url": "https://www.facebook.com/juicepower1/",
     "instagram_handle": "juicepower1",
-    "twitter_handle": "juicepower1"
+    "twitter_handle": "juicepower1",
+    "horario":"15.00 - 23.00hs",
+    "km":"7.3 KM",
+    "delivery":"No tiene delivery",
+    "puntuacion":"4",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Acai Bowl Tropical",
+        "category": "Acai Bowls",
+        "descripcion": "Bowl de acai con mezcla tropical de frutas frescas, granola crujiente, coco rallado y miel de agave. Perfecto para un desayuno saludable o un refrigerio energético.",
+        "precio": "9.99",
+        "img_url": "https://th.bing.com/th/id/OIP.IecOhvEVzaPio5H3wvpjKgHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Jugo Detox Verde",
+        "category": "Jugos Detox",
+        "descripcion": "Jugo fresco de vegetales verdes como espinaca, pepino y apio, con un toque de limón y jengibre. Ideal para desintoxicar y revitalizar el cuerpo.",
+        "precio": "7.50",
+        "img_url": "https://th.bing.com/th/id/OIP.mc3A3SGfhwdiLIm8PxvNAwHaE-?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Smoothie Energizante de Frutas",
+        "category": "Smoothies",
+        "descripcion": "Smoothie lleno de energía con una mezcla de fresas, plátano, espinaca, leche de almendras y semillas de chía. Perfecto para empezar el día con vitalidad.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/OIP.zXVJD46jyiCEv4pcY864hQHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Ensalada de Frutas Frescas",
+        "category": "Ensaladas",
+        "descripcion": "Ensalada refrescante con una variedad de frutas de temporada, como sandía, melón, piña y bayas, aderezada con una suave vinagreta de miel y limón.",
+        "precio": "6.99",
+        "img_url": "https://th.bing.com/th/id/R.fdce0268436f6986fc712313996f2397?rik=Es4bWevTvFrdKw&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Café Montville Orgánico",
+        "category": "Café",
+        "descripcion": "Café orgánico de Montville preparado según tus preferencias, con una selección de leches como almendra, coco o soya. Disfrútalo caliente o frío.",
+        "precio": "3.50",
+        "img_url": "https://th.bing.com/th/id/OIP.JV1dhQUvicbsnitnAK__2wHaFB?w=263&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Tea Infusion Energizante",
+        "category": "Tés",
+        "descripcion": "Infusión de té energizante con mezcla de hierbas revitalizantes como ginseng, mate y hierba de limón. Perfecto para un impulso de energía natural.",
+        "precio": "4.50",
+        "img_url": "https://th.bing.com/th/id/OIP.9neeqGGr0HKAm7qFie2ODAHaE8?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "Ana García",
+        "plato_desgusto": "Acai Bowl Tropical",
+        "descripcion_rese": "El Acai Bowl Tropical era fresco y delicioso, con una combinación perfecta de frutas y granola. ¡Me encantó!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.ck261PwVSMpHAIqrDlDfnAHaLH?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Roberto Fernández",
+        "plato_desgusto": "Smoothie Energizante de Frutas",
+        "descripcion_rese": "El smoothie de frutas estaba lleno de energía y muy sabroso. Perfecto para recuperarse después de hacer ejercicio.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://i.pinimg.com/236x/ea/8d/df/ea8ddfd792a751bb84c4b3bc1641df43.jpg?nii=t"
+      },
+      {
+        "namepers": "Isabel Martín",
+        "plato_desgusto": "Jugo Detox Verde",
+        "descripcion_rese": "El jugo detox verde era refrescante y tenía un sabor equilibrado entre los vegetales y el toque de limón. Muy recomendable.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.Hj4tuN-vwTFpWslCsWiofwHaKN?w=828&h=1142&rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Sergio Díaz",
+        "plato_desgusto": "Ensalada de Frutas Frescas",
+        "descripcion_rese": "La ensalada de frutas frescas estaba muy bien preparada, con una mezcla de sabores y una vinagreta suave que realzaba el sabor de las frutas.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.0IwZJIkOdKzIBYopmq2mfAHaJQ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Luisa Navarro",
+        "plato_desgusto": "Café Montville Orgánico",
+        "descripcion_rese": "El café orgánico de Montville era delicioso y preparado exactamente como lo pedí. Una excelente opción para los amantes del café.",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.YDulPpYupHsLUxfIAQjBQQHaLH?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Diego López",
+        "plato_desgusto": "Tea Infusion Energizante",
+        "descripcion_rese": "La infusión de té energizante tenía un aroma y sabor revitalizantes. Perfecta para comenzar el día con energía.",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://th.bing.com/th/id/R.39be61502f7ba27caa66f3a76bf7b257?rik=nS7v%2fhW1cKl5SA&pid=ImgRaw&r=0"
+      }
+    ]
   },
+
   {
     "truck_id": "2141",
     "name": "Cone Queen",
-    "category": "Dessert / Sweet",
-    "bio": "For over a decade, the Cone Queen has been tantalising the people of South-East Queensland with her delicious, high quality soft serve ice creams. When whipping out the ice creams from the eccentrically decorated window of her classic Bedford ice cream truck – ‘Betty’ – the Cone Queen says every ice cream is like “handing out a handful of happiness to a new friend!”",
+    "category": "Especialidad,Dessert / Sweet.",
+    "bio": "Durante más de una década, la Reina del Cono ha estado cautivando a la gente del sureste de Queensland con sus deliciosos helados suaves de alta calidad. Al sacar los helados por la ventana excéntricamente decorada de su clásico camión de helados Bedford, 'Betty', la Reina del Cono dice que cada helado es como entregar un puñado de felicidad a un nuevo amigo.",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Cone%20Queen/logo_0.jpg?itok=HNS9qodk",
       "alt": "",
@@ -695,13 +1714,135 @@
     "website": "http://www.conequeen.com.au",
     "facebook_url": "https://www.facebook.com/theconequeen/",
     "instagram_handle": "conequeen",
-    "twitter_handle": "cone_queen"
+    "twitter_handle": "cone_queen",
+    "puntuacion":"7",
+    "horario":"08.00 - 03.00hs",
+    "delivery":"No tiene delivery",
+    "km":"7.3 KM",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Helado Soft Serve Clásico",
+        "descripcion": "Helado suave clásico servido en cono o copa, con opciones de toppings como chocolate, fresas frescas o galletas trituradas.",
+        "precio": "3.50",
+        "img_url": "https://th.bing.com/th/id/R.f21ed02f087dc114e9ee03f8076e8d48?rik=ksYmwL7nnUSrfQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Sundae Especial de la Casa",
+        "descripcion": "Sundae elaborado con helado suave, sirope de caramelo casero, nueces tostadas, crema batida y una cereza en la cima. Una delicia indulgente.",
+        "precio": "5.99",
+        "img_url": "https://th.bing.com/th/id/OIP.y2ImHLbwYGa8By9q8_26UAHaFj?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Milkshake de Vainilla",
+        "descripcion": "Batido cremoso de helado suave de vainilla con leche fresca, servido en un vaso helado con pajilla. Perfecto para refrescarse en días calurosos.",
+        "precio": "4.50",
+        "img_url": "https://th.bing.com/th/id/R.3146aade057ad38db185863bcb560575?rik=EGhs5F31r2ASaQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Cono Especial con Dip de Chocolate",
+        "descripcion": "Cono de helado suave con dip de chocolate artesanal y opción de añadir sprinkles de colores. Una delicia que combina lo crujiente y lo suave.",
+        "precio": "4.25",
+        "img_url": "https://th.bing.com/th/id/R.ab3a816f003b340a2989b120de36f436?rik=r5XXqSNkwlRVpQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Tarrina de Helado de Menta y Chocolate",
+        "descripcion": "Tarrina de helado suave con sabor a menta y trozos de chocolate oscuro. Ideal para los amantes del chocolate con un toque refrescante.",
+        "precio": "5.75",
+        "img_url": "https://th.bing.com/th/id/OIP.sK7gMb1-yEqE4TpaT931mAHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "6",
+        "nombre": "Banana Split Clásico",
+        "descripcion": "Postre clásico con helado suave, plátano fresco cortado en mitades, sirope de fresa y nueces picadas. Una combinación de sabores que nunca pasa de moda.",
+        "precio": "6.50",
+        "img_url": "https://th.bing.com/th/id/OIP.qHzR9X3aOz1jU13i2-1T1AHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "7",
+        "nombre": "Helado Soft Serve de Mango",
+        "descripcion": "Helado suave con sabor tropical a mango, servido con frutas frescas como piña y kiwi, y un toque de coco rallado. Una explosión de sabores veraniegos.",
+        "precio": "4.75",
+        "img_url": "https://th.bing.com/th/id/OIP.5pDNQ29gQUMmO0LJlZxUgAHaFF?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "8",
+        "nombre": "Copa Helada de Frutas Tropicales",
+        "descripcion": "Copa helada con helado suave de vainilla, mezcla de frutas tropicales como mango, papaya y guayaba, con sirope de frutas exóticas y crema batida.",
+        "precio": "6.99",
+        "img_url": "https://th.bing.com/th/id/OIP.CZ1cgdPCHaMPd20kayG24wAAAA?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+
+  {
+    "namepers": "Carolina Torres",
+    "plato_desgusto": "Helado Soft Serve Clásico",
+    "descripcion_rese": "El helado suave clásico era delicioso, con un equilibrio perfecto entre cremosidad y toppings. ¡Me encantó!",
+    "puntuacion_rese": "9",
+    "img_url_pers": "https://sonya1.github.io/assets/img/sonya.jpg"
   },
+  {
+    "namepers": "Manuela Díaz",
+    "plato_desgusto": "Sundae Especial de la Casa",
+    "descripcion_rese": "El Sundae especial era increíblemente indulgente, con todos los sabores y texturas que esperaba. ¡Altamente recomendado!",
+    "puntuacion_rese": "8",
+    "img_url_pers": "https://i.pinimg.com/736x/5a/18/7e/5a187e40c8c087cb87281b6ad759308f.jpg"
+  },
+  {
+    "namepers": "Laura Sánchez",
+    "plato_desgusto": "Milkshake de Vainilla",
+    "descripcion_rese": "El milkshake de vainilla estaba perfectamente cremoso y sabroso. Una excelente opción para los amantes de los batidos.",
+    "puntuacion_rese": "7",
+    "img_url_pers": "https://i.pinimg.com/736x/1e/2b/15/1e2b1556d7bbbd7f3776e6306dc0aeee.jpg"
+  },
+  {
+    "namepers": "Javier Fernández",
+    "plato_desgusto": "Cono Especial con Dip de Chocolate",
+    "descripcion_rese": "El cono especial con dip de chocolate era simplemente delicioso, combinando lo crujiente con lo suave de manera perfecta.",
+    "puntuacion_rese": "9",
+    "img_url_pers": "https://th.bing.com/th/id/R.218ad80bfa89354f14c187f0a1a4ea00?rik=Vhp24X%2b%2bTqXA2A&pid=ImgRaw&r=0"
+  },
+  {
+    "namepers": "María López",
+    "plato_desgusto": "Tarrina de Helado de Menta y Chocolate",
+    "descripcion_rese": "La tarrina de helado de menta y chocolate era refrescante y con trozos generosos de chocolate. ¡Me dejó con ganas de más!",
+    "puntuacion_rese": "8",
+    "img_url_pers": "https://th.bing.com/th/id/OIP.qthJYCVHRwEyKJQdFPZXoAAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "namepers": "Roberto Martínez",
+    "plato_desgusto": "Banana Split Clásico",
+    "descripcion_rese": "El Banana Split clásico era una explosión de sabores clásicos que me transportó a la nostalgia de los postres tradicionales. ¡Muy bueno!",
+    "puntuacion_rese": "9",
+    "img_url_pers": "https://amigosgringos.com/wp-content/uploads/avatars/152/5b8a14a7666ea-bpfull.jpg"
+  },
+  {
+    "namepers": "Ana García",
+    "plato_desgusto": "Helado Soft Serve de Mango",
+    "descripcion_rese": "El helado suave de mango fue una sorpresa deliciosa con su sabor tropical y la frescura de las frutas. Perfecto para un día soleado.",
+    "puntuacion_rese": "8",
+    "img_url_pers": "https://th.bing.com/th/id/OIP.7nfw_mxBXxSQX529Kma3sAHaFK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "namepers": "David Pérez",
+    "plato_desgusto": "Copa Helada de Frutas Tropicales",
+    "descripcion_rese": "La copa helada de frutas tropicales fue una combinación exquisita de sabores exóticos y cremosidad. ¡Muy recomendable!",
+    "puntuacion_rese": "7",
+    "img_url_pers": "https://i.pinimg.com/originals/df/2e/28/df2e28242e54581daaf2d401842174da.jpg"
+  }
+    ]
+  },
+
   {
     "truck_id": "3241",
     "name": "One World Food Truck",
-    "category": "Fusion",
-    "bio": "One World Food Truck is the creation of chef Jason Sierra. With a Spanish background he focuses on Spanish/Latin food however don’t be surprised if One World lives up to its name by serving up wonderful Italian fare or suprises you with other quirky creations, it’s a food truck with an open mind that’s fuelled by flavour and driven by passion. Some examples from our menu are the \"El Toro Loco Burger\", a \"Cubano\" sandwich, “One World Steak and Cheese Piadina”, “Pinchitos”, “Spicy wings” all served on homemade flat breads and brioche buns as vehicles for our yummy dishes.",
+    "category": "Especialidad,Fusion.",
+    "bio": "One World Food Truck es la creación del chef Jason Sierra. Con un trasfondo español, se centra en comida española/latina; sin embargo, no te sorprendas si One World cumple con su nombre sirviendo maravillosos platos italianos o sorprendiéndote con otras creaciones peculiares. Es un food truck con mente abierta, impulsado por el sabor y conducido por la pasión. Algunos ejemplos de nuestro menú incluyen la Hamburguesa El Toro Loco, un sándwich Cubano, la Piadina One World de Carne y Queso, Pinchitos y Alitas Picantes, todos servidos en panes caseros planos y bollos de brioche como vehículos para nuestros deliciosos platos.",
     "avatar": {
       "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Jessie%20Oliver/13124886_1685476725050591_7061623722593519681_n.jpg?itok=B2ItYdsA",
       "alt": "",
@@ -715,6 +1856,89 @@
     "website": "http://www.oneworldfoodtruck.com.au",
     "facebook_url": "http://www.facebook.com/oneworldfoodtruck",
     "instagram_handle": "oneworldfoodtruck",
-    "twitter_handle": ""
+    "twitter_handle": "",
+    "puntuacion":"10",
+    "horario":"12.00 - 23.00hs",
+    "km":"5.0 KM",
+    "delivery":"No tiene delivery",
+    "menu":[
+      {
+        "id_plato": "1",
+        "nombre": "Hamburguesa El Toro Loco",
+        "category": "Especialidad,Fusion.",
+        "descripcion": "Jugosa hamburguesa con carne de res sazonada, queso cheddar derretido, rodajas de tomate, lechuga fresca y salsa especial, todo servido en un bollo de brioche casero.",
+        "precio": "9.99",
+        "img_url": "https://th.bing.com/th/id/OIP.AoYgSM4OL7YyP03E5NCoAQHaHP?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "2",
+        "nombre": "Sándwich Cubano",
+        "category": "Especialidad,Fusion.",
+        "descripcion": "Clásico sándwich cubano con jamón asado, lomo de cerdo, queso suizo, pepinillos y mostaza, prensado y tostado en pan casero tipo baguette.",
+        "precio": "8.50",
+        "img_url": "https://th.bing.com/th/id/R.c11a4547896fbd90637a6c8603b5f6e0?rik=8QUXCcXfy1ZUYQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "3",
+        "nombre": "Piadina One World de Carne y Queso",
+        "category": "Especialidad,Fusion.",
+        "descripcion": "Piadina italiana rellena con carne a la parrilla, queso mozzarella derretido, rúcula fresca y tomates secos, servida caliente y crujiente.",
+        "precio": "10.50",
+        "img_url": "https://th.bing.com/th/id/OIP.Ma-ezqT4jV6Eeloo7uh2SAHaFj?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id_plato": "4",
+        "nombre": "Pinchitos",
+        "descripcion": "Brochetas de pollo marinadas con especias mediterráneas, asadas a la parrilla y servidas con salsa de yogur casera y limón.",
+        "precio": "7.99",
+        "category": "Especialidad,Fusion.",
+        "img_url": "https://th.bing.com/th/id/R.a66bfdfb36b5ced2b387d5ce0ca8cf59?rik=IUvKTgG5f0RqyA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-a2q8Zgu5YuM%2fUj_6eKDSN1I%2fAAAAAAAAEvY%2fsm6QPbZphcI%2fs1600%2fpinchitos%2bde%2bpollo%2bteriyaki.jpg&ehk=VXxwZDiPHuypFoBGmGiURdNx67KCaUxm0d34UaLJtJU%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id_plato": "5",
+        "nombre": "Alitas Picantes",
+        "category": "Especialidad,Fusion.",
+        "descripcion": "Alitas de pollo crujientes, marinadas en una mezcla de especias picantes y asadas a la perfección, servidas con salsa ranch casera.",
+        "precio": "8.99",
+        "img_url": "https://th.bing.com/th/id/OIP.mV5XOUYdYKxWPBizy8sVtQAAAA?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "resenas":[
+      {
+        "namepers": "Carlos Gutiérrez",
+        "plato_desgusto": "Hamburguesa El Toro Loco",
+        "descripcion_rese": "La Hamburguesa El Toro Loco fue increíblemente sabrosa, con una combinación perfecta de ingredientes frescos y sabrosos. ¡Definitivamente volveré por más!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.jAQ06ImatmFb_Sd47oQKmgHaIP?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Isabel Martínez",
+        "plato_desgusto": "Sándwich Cubano",
+        "descripcion_rese": "El Sándwich Cubano tenía el equilibrio perfecto entre los sabores de los ingredientes. La combinación de jamón, cerdo, queso y pepinillos fue deliciosa.",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.zLCgGbRMdq-abYKiXmJY6QHaE6?rs=1&pid=ImgDetMain"
+      },
+      {
+        "namepers": "Antonio López",
+        "plato_desgusto": "Piadina One World de Carne y Queso",
+        "descripcion_rese": "La Piadina de Carne y Queso estaba llena de sabor, con la carne a la parrilla y el queso derretido complementándose perfectamente. ¡Muy recomendable!",
+        "puntuacion_rese": "9",
+        "img_url_pers": "https://i.pinimg.com/originals/04/48/cc/0448cc1b39145982fe89fbdca18f52dd.jpg"
+      },
+      {
+        "namepers": "Laura Fernández",
+        "plato_desgusto": "Pinchitos",
+        "descripcion_rese": "Los Pinchitos estaban perfectamente sazonados y asados, con una salsa de yogur casera que realzaba aún más su sabor. ¡Deliciosos!",
+        "puntuacion_rese": "8",
+        "img_url_pers": "https://i.pinimg.com/736x/d3/c4/67/d3c467c6e0f540da3f10f184b7f31311.jpg"
+      },
+      {
+        "namepers": "Pedro Ramírez",
+        "plato_desgusto": "Alitas Picantes",
+        "descripcion_rese": "Las Alitas Picantes eran crujientes por fuera y tiernas por dentro, con el nivel perfecto de picante. ¡Una excelente opción para los amantes del picante!",
+        "puntuacion_rese": "7",
+        "img_url_pers": "https://th.bing.com/th/id/OIP.ybDRaKPpzgwDAzSzoKJxmQHaLI?rs=1&pid=ImgDetMain"
+      }
+    ]
   }
 ]
