@@ -1,0 +1,426 @@
+{
+  "contenedores": [
+    {
+      "id": "id_1",
+      "titulo": "Preguntas Frecuentes",
+      "contenido": [
+        "1. ¿Qué tipos de productos ofrece ScarletCosmetics?\n\nScarletCosmetics ofrece una amplia gama de productos cosméticos, incluyendo maquillaje, cuidado de la piel, productos para el cabello y fragancias. Trabajamos con marcas reconocidas y productos de alta calidad para satisfacer todas tus necesidades de belleza.",
+        "2. ¿Cómo puedo realizar un pedido en ScarletCosmetics?\n\nPuedes realizar un pedido a través de nuestro sitio web. Simplemente selecciona los productos que deseas, agrégales al carrito, y sigue el proceso de pago. También ofrecemos opciones de pago seguras y varias formas de envío para tu comodidad.",
+        "3. ¿ScarletCosmetics realiza envíos internacionales?\n\nSí, ScarletCosmetics realiza envíos a nivel internacional. En la página de pago, podrás seleccionar tu país y calcular el costo de envío. Asegúrate de revisar las políticas de aduanas y tarifas adicionales para tu país.",
+        "4. ¿Cómo puedo rastrear mi pedido?\n\nDespués de realizar tu pedido, recibirás un correo electrónico con un número de seguimiento y un enlace para rastrear tu paquete. Puedes usar esta información para verificar el estado y la ubicación de tu pedido en tiempo real.",
+        "5. ¿Qué hago si recibo un producto dañado o incorrecto?\n\nSi recibes un producto dañado o incorrecto, por favor contáctanos de inmediato a través de nuestro servicio de atención al cliente. Proporciona tu número de pedido y una descripción del problema, y te ayudaremos a resolverlo lo más rápido posible.",
+        "6. ¿ScarletCosmetics ofrece una política de devolución?\n\nSí, ofrecemos una política de devolución dentro de un plazo específico después de recibir tu pedido. Los productos deben estar en su estado original y en el embalaje original para ser elegibles para una devolución. Consulta nuestra página de devoluciones para más detalles.",
+        "7. ¿Dónde puedo encontrar información sobre los ingredientes de los productos?\n\nLa información sobre los ingredientes de nuestros productos está disponible en las descripciones de productos en nuestro sitio web. Si tienes alguna preocupación específica o necesitas más detalles, no dudes en contactar a nuestro servicio de atención al cliente.",
+        "8. ¿ScarletCosmetics realiza pruebas en animales?\n\nNo, en ScarletCosmetics estamos comprometidos con la ética y la responsabilidad. Todos nuestros productos son libres de crueldad y no realizamos pruebas en animales.",
+        "9. ¿Cómo puedo suscribirme a las actualizaciones y promociones de ScarletCosmetics?\n\nPuedes suscribirte a nuestro boletín informativo en la parte inferior de nuestra página principal. Al hacerlo, recibirás las últimas noticias, ofertas y promociones directamente en tu correo electrónico.",
+        "10. ¿Dónde puedo encontrar las tiendas físicas de ScarletCosmetics?\n\nActualmente, ScarletCosmetics opera principalmente en línea, pero estamos trabajando para expandir nuestras tiendas físicas. Consulta la sección de 'Tiendas' en nuestro sitio web para obtener la información más actualizada sobre ubicaciones y horarios."
+      ]
+    },
+    {
+      "id": "id_2",
+      "titulo": "Locales",
+      "contacto": [
+        {
+          "icono": "fa-shop",
+          "titulo": "Av.San martin,Caballito",
+          "contenido": "Lunes a Viernes",
+          "hora":" 9:00 AM - 6:00 PM"
+        },
+        {
+          "icono": "fa-shop",
+          "titulo": "Av.SanJoseHernandez,Tortuguitas",
+          "contenido": "Miercoles a Viernes",
+          "hora":"10:00 AM - 4:00 PM"
+        },
+        {
+          "icono": "fa-shop",
+          "titulo": "Av.Jose Hernandez,Tortuguitas",
+          "contenido": "Miercoles a Viernes",
+          "hora":" 10:00 AM - 4:00 PM"
+        },
+        {
+          "icono": "fa-shop",
+          "titulo": "Av.SanJoseHernandez,Tortuguitas",
+          "contenido": "Miercoles a Viernes",
+           "hora":" 10:00 AM - 4:00 PM"
+        },
+        {
+          "icono": "fa-shop",
+          "titulo": "Av.SanJoseHernandez,Tortuguitas",
+          "contenido": "Miercoles a Viernes",
+            "hora":" 10:00 AM - 4:00 PM"
+        }
+      ]
+    },
+    {
+      "id": "id_3",
+      "titulo": "Contacto",
+      "contacto": [
+        {
+          "icono": "fa-phone",
+          "titulo": "¡Llamanos!",
+          "contenido": "Tel: +123 456 7890",
+          "semana":"Contactate de Lunes a Viernes",
+          "hora":"9:00 AM - 16:00 PM"
+        },
+        {
+          "icono": "fa-envelope",
+          "titulo": "escribinos",
+          "contenido": "",
+          "semana":"ScarletCosmetics@gmail.com",
+          "hora":""
+        },
+        {
+          "icono": "fa-whatsapp",
+          "titulo": "Whatsapp",
+          "contenido": "",
+          "semana":"Contactate de Lunes a Sabados",
+          "hora":"8:30 AM - 16:00 PM"
+        }
+      ]
+    },
+    {
+      "id": "id_4",
+      "titulo": "¿Te Arrepentiste?",
+      "contenido": "Aquí van los términos y condiciones específicos del documento 3. No somos responsables por productos de terceros."
+    },
+    {
+      "id": "id_5",
+      "titulo": "Política de Cambios y Devoluciones",
+      "contenido": [
+        "1. Introducción\n\nEn ScarletCosmetics, queremos que estés satisfecho con tu compra. Si no estás completamente satisfecho, ofrecemos opciones de cambios y devoluciones de acuerdo con los términos descritos a continuación.",
+        "2. Política de Devoluciones\n\n2.1 Aceptamos devoluciones de productos en condiciones originales y dentro del plazo de [Número de Días] días a partir de la fecha de recepción.\n2.2 Los productos deben estar sin usar, en su embalaje original y con todas las etiquetas y documentos incluidos.\n2.3 Los productos de higiene personal, como cosméticos y productos de belleza, no son elegibles para devolución debido a razones de salud y seguridad, a menos que lleguen dañados o defectuosos.",
+        "3. Proceso de Devolución\n\n3.1 Para iniciar una devolución, por favor contáctanos en [Correo Electrónico de Contacto] o [Número de Teléfono] para recibir instrucciones detalladas sobre el procedimiento.\n3.2 Debes proporcionar el número de pedido y una descripción del motivo de la devolución.\n3.3 Los costos de envío para devolver el producto correrán por cuenta del cliente, a menos que el producto esté defectuoso o haya sido enviado por error.",
+        "4. Reembolsos\n\n4.1 Una vez que recibamos y verifiquemos el producto devuelto, procesaremos el reembolso a través del método de pago original.\n4.2 Los reembolsos se procesarán en un plazo de [Número de Días] días hábiles desde la recepción del producto.\n4.3 El costo de envío original no será reembolsado, excepto en casos de error por parte de ScarletCosmetics o productos defectuosos.",
+        "5. Cambios\n\n5.1 Si deseas cambiar un producto por otro, por favor sigue el mismo proceso que para devoluciones y realiza una nueva compra del producto deseado.\n5.2 Los productos deben ser devueltos en condiciones originales y en el plazo establecido para recibir un producto de reemplazo.",
+        "6. Productos Defectuosos o Erróneos\n\n6.1 Si recibes un producto defectuoso o incorrecto, por favor contáctanos inmediatamente en [Correo Electrónico de Contacto] o [Número de Teléfono] para recibir instrucciones sobre cómo devolver el producto y recibir un reemplazo o reembolso completo.\n6.2 ScarletCosmetics cubrirá los costos de envío para la devolución de productos defectuosos o erróneos.",
+        "7. Excepciones\n\n7.1 La política de cambios y devoluciones puede no aplicarse a productos en oferta, productos personalizados o productos que se hayan utilizado.",
+        "8. Contacto\n\nPara cualquier consulta relacionada con cambios y devoluciones, puedes ponerte en contacto con nosotros en:\n\n- Correo Electrónico: [Correo Electrónico de Contacto]\n- Número de Teléfono: [Número de Teléfono]"
+      ]
+    },
+    {
+      "id": "id_6",
+      "titulo": "Términos y Condiciones",
+      "contenido": [
+        "Fecha de Vigencia: [Fecha]",
+        "1. Introducción\n\nBienvenido a ScarletCosmetics. Estos Términos y Condiciones regulan el uso de nuestro sitio web y servicios. Al acceder o utilizar nuestro sitio web, aceptas cumplir con estos términos. Si no estás de acuerdo con estos términos, te rogamos que no utilices nuestros servicios.",
+        "2. Información de la Empresa\n\nScarletCosmetics es una empresa global dedicada a ofrecer productos de cosmética de diversas marcas reconocidas a nivel mundial. Nuestra sede está ubicada en [Dirección de la Empresa], y estamos registrados bajo el número [Número de Registro].",
+        "3. Productos y Servicios\n\n3.1 ScarletCosmetics ofrece una amplia gama de productos cosméticos de diferentes marcas reconocidas a nivel mundial.\n3.2 Los productos están sujetos a disponibilidad y pueden ser modificados o descontinuados sin previo aviso.",
+        "4. Compras y Pagos\n\n4.1 Los precios de los productos se indican en el sitio web y están sujetos a cambios sin previo aviso.\n4.2 Los pagos deben realizarse mediante los métodos aceptados en el sitio web. Asegúrate de proporcionar información precisa y completa.",
+        "5. Entregas\n\n5.1 ScarletCosmetics se compromete a procesar y enviar los pedidos de manera oportuna.\n5.2 Los tiempos de entrega pueden variar según la ubicación y el método de envío seleccionado.",
+        "6. Devoluciones y Reembolsos\n\n6.1 Aceptamos devoluciones de productos en condiciones originales y dentro del plazo especificado en nuestra política de devoluciones.\n6.2 Los reembolsos se procesarán de acuerdo con nuestra política de reembolsos.",
+        "7. Propiedad Intelectual\n\n7.1 Todo el contenido del sitio web, incluidos textos, imágenes, logotipos y marcas registradas, es propiedad de ScarletCosmetics o de sus respectivos propietarios.\n7.2 Queda prohibida la reproducción, distribución o uso no autorizado del contenido del sitio web.",
+        "8. Responsabilidad\n\n8.1 ScarletCosmetics no se hace responsable de daños directos, indirectos, incidentales o consecuenciales derivados del uso de nuestro sitio web o productos.\n8.2 La información en el sitio web se proporciona \"tal cual\" y no garantizamos su precisión o integridad.",
+        "9. Modificaciones de Términos\n\nScarletCosmetics se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Las modificaciones serán efectivas a partir de su publicación en el sitio web.",
+        "10. Ley Aplicable\n\nEstos Términos y Condiciones se regirán e interpretarán de acuerdo con las leyes del país en el que está registrada ScarletCosmetics.",
+        "11. Contacto\n\nSi tienes preguntas sobre estos Términos y Condiciones, puedes ponerte en contacto con nosotros en [Correo Electrónico de Contacto] o [Número de Teléfono]."
+      ]
+    },
+    {
+      "id": "id_7",
+      "titulo": "Política de Privacidad",
+      "contenido": [
+        "Última actualización: [Fecha]",
+        "1. Introducción\n\nBienvenido a ScarletCosmetics. Nos comprometemos a proteger tu privacidad y garantizar la seguridad de tus datos personales. Esta Política de Privacidad explica cómo recopilamos, usamos, compartimos y protegemos la información que obtenemos a través de nuestro sitio web y servicios. Al utilizar nuestros servicios, aceptas las prácticas descritas en esta política.",
+        "2. Información que Recopilamos\n\nRecopilamos diferentes tipos de información en función de cómo interactúas con nosotros:\n\n- Información Personal: Nombre, dirección de correo electrónico, dirección de envío, número de teléfono y detalles de pago cuando realices una compra o te registres en nuestro sitio.\n- Información de Uso: Datos sobre tu uso de nuestro sitio web, como las páginas visitadas, el tiempo de permanencia en el sitio, y la dirección IP.\n- Información de Cookies: Utilizamos cookies para mejorar tu experiencia en nuestro sitio web. Las cookies son pequeños archivos que se almacenan en tu dispositivo y que nos ayudan a personalizar tu visita.",
+        "3. Cómo Usamos Tu Información\n\nUtilizamos la información recopilada para los siguientes propósitos:\n\n- Procesar Transacciones: Para gestionar tus compras, procesar pagos y entregar productos.\n- Mejorar Nuestros Servicios: Para personalizar tu experiencia en nuestro sitio, mejorar nuestros productos y servicios, y ofrecerte contenido relevante.\n- Comunicación: Para enviarte actualizaciones sobre tu pedido, responder a tus consultas y ofrecerte información sobre productos y promociones.\n- Seguridad: Para proteger nuestros servicios y usuarios contra fraudes y otros riesgos de seguridad.",
+        "4. Compartición de Información\n\nPodemos compartir tu información personal con:\n\n- Proveedores de Servicios: Empresas que nos ayudan a procesar pagos, enviar productos y realizar análisis de datos.\n- Socios Comerciales: Para ofrecerte productos y promociones relevantes, siempre con tu consentimiento.\n- Cumplimiento Legal: Cuando sea necesario para cumplir con las leyes y regulaciones aplicables, o para responder a solicitudes legales.",
+        "5. Seguridad de Datos\n\nImplementamos medidas de seguridad técnicas y organizativas para proteger tu información personal contra el acceso no autorizado, la alteración, la divulgación o la destrucción. Sin embargo, ningún sistema de seguridad es infalible y no podemos garantizar la seguridad absoluta de tus datos.",
+        "6. Derechos del Usuario\n\nTienes derecho a:\n\n- Acceso: Solicitar una copia de la información personal que tenemos sobre ti.\n- Corrección: Solicitar la corrección de información inexacta o incompleta.\n- Eliminación: Solicitar la eliminación de tu información personal cuando ya no sea necesaria para los fines para los que fue recopilada.\n- Restricción de Procesamiento: Solicitar que restrinjamos el procesamiento de tus datos personales en determinadas circunstancias.\n- Portabilidad de Datos: Solicitar la transferencia de tus datos personales a otro controlador en un formato estructurado y comúnmente utilizado.",
+        "7. Cambios en la Política de Privacidad\n\nPodemos actualizar esta Política de Privacidad ocasionalmente para reflejar cambios en nuestras prácticas o para cumplir con las leyes aplicables. Te notificaremos sobre cualquier cambio importante y publicaremos la versión actualizada en nuestro sitio web.",
+        "8. Contacto\n\nSi tienes alguna pregunta sobre esta Política de Privacidad o cómo manejamos tus datos personales, por favor contáctanos en:\n\n- Correo Electrónico: [correo@scarletacosmetics.com]\n- Número de Teléfono: [Número de Teléfono]\n- Dirección: [Dirección de la Empresa]"
+      ]
+    }
+  ],
+    "cosmeticos": [
+      {
+        "id_cosmetico": "01",
+        "img_cosmetico": "./img/maquillaje.png",
+        "name_cosmetico": "Maquillaje",
+        "menu_producto": [
+          {
+            "id_producto": "10",
+            "img_producto_miniatura": "https://th.bing.com/th/id/OIP.yX6Nkex077b_6_g3HPpf4wHaII?rs=1&pid=ImgDetMain",
+            "img_producto_1": "https://img.freepik.com/fotos-premium/lapiz-labial-rosa-pintura-trazo-difuminado-maquillaje-labios-cosmeticos-producto-maqueta-belleza-moda-busi_926199-71021.jpg?w=360",
+            "img_producto_2": "https://img.freepik.com/free-photo/artistic-colorful-brush-strokes-paint_23-2148177423.jpg?t=st=1726027080~exp=1726030680~hmac=57ec6917412aaa067be1ade62368a068798c9aa2848923a520c28fdad913ad38&w=740",
+            "img_producto_3": "https://www.maicao.cl/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_Chile/default/dw8298af48/images/large/389178-4-labial-cremoso-mate-8hrs-colorissimo-rosa-amorosa-4-grs.jpg?sw=1000&sh=1000",
+            "marca_producto": "Maybelline",
+            "name_producto": "Labial rosa",
+            "descripcion_producto": "Labial Maybelline NY Color Sensational Matte Ravishing Rose",
+            "precio_anterior_producto": "$20,000.00",
+            "precio_producto": "$15000.99"
+          },
+          {
+            "id_producto": "11",
+            "img_producto_miniatura": "https://sephora.com.mx/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw24c1dc99/images/hi-res/delineador-de-ojos-sephora-collection-sephora-collection-black-ink-fine-line-delineador-negro3378872122135A.png",
+            "img_producto_1": "https://sephora.com.mx/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw24c1dc99/images/hi-res/delineador-de-ojos-sephora-collection-sephora-collection-black-ink-fine-line-delineador-negro3378872122135A.png",
+            "img_producto_2": "https://cdn.mos.cms.futurecdn.net/whowhatwear/posts/288876/french-girl-fall-beauty-looks-288876-1598642695733-product-1600-80.jpg",
+            "img_producto_3": "https://th.bing.com/th/id/OIP.5MNxIY881gJw7XR5ctkwpAHaHa?w=768&h=768&rs=1&pid=ImgDetMain",
+            "marca_producto": "AVON",
+            "name_producto": "Delineador",
+            "descripcion_producto": "Delineador de Labios en Lápiz | Color Trend Chocolate",
+            "precio_anterior_producto": "$2700.00",
+            "precio_producto": "$1800.00"
+          },
+          {
+            "id_producto": "12",
+            "img_producto_miniatura": "https://www.byrdie.com/thmb/hs1L-Ir0S8XNxoSd1uOHQYMoSFE=/700x796/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__228527__best-waterproof-makeup-228527-1498839561382-product.700x0c-b7b20ed740124b619e896ec2972ca390.jpg",
+            "img_producto_1": "https://www.byrdie.com/thmb/hs1L-Ir0S8XNxoSd1uOHQYMoSFE=/700x796/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__228527__best-waterproof-makeup-228527-1498839561382-product.700x0c-b7b20ed740124b619e896ec2972ca390.jpg",
+            "img_producto_2": "https://el-mejor.com/imagenes/mascara-de-pestanas-impermeable-de-heybeauty.jpg",
+            "img_producto_3": "https://www.freshlycosmetics.com/img/media/213/infinite_eyelash_3_large_default.jpg?1860353902da2744aae336be34882060",
+            "marca_producto": "Maybelline",
+            "name_producto": "Mascara para pestañas",
+            "descripcion_producto": "Máscara para Fabulous Lash a prueba de agua",
+            "precio_anterior_producto": "$11000.00",
+            "precio_producto": "$8000.00"
+          },
+          {
+            "id_producto": "13",
+            "img_producto_miniatura": "https://http2.mlstatic.com/D_NQ_NP_740932-MLM69598738209_052023-O.webp",
+            "img_producto_1": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_123585798_3732069_1?wid=800&hei=800&qlt=70",
+            "img_producto_2": "https://people.com/thmb/rtQIeKXJhCm85BLLWD8YuaEq95o=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/rare-beauty-0b4554b7c6374124b77b3d7e10543691.jpg",
+            "img_producto_3": "https://uploads.tiendada.com/public/file-storage/im/product/292b0b8b-c4de-488a-b751-0fb001bf02f3.jpeg",
+            "marca_producto": "Rare beauty",
+            "name_producto": "Rubor liquido",
+            "descripcion_producto": "Rubor Líquido Silk Kiss Long Lasting",
+            "precio_anterior_producto": "3999.00",
+            "precio_producto": "1500.00"
+          },
+          {
+            "id_producto": "14",
+            "img_producto_miniatura": "https://th.bing.com/th/id/OIP.8RkaupwgWh-_kvPRrg2HogHaHq?w=1012&h=1048&rs=1&pid=ImgDetMain",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.8RkaupwgWh-_kvPRrg2HogHaHq?w=1012&h=1048&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_1800,c_limit/e_trim/v1/imagens/products/B83600/BT_03_21_Pack_Intense_Sombras.jpg",
+            "img_producto_3": "https://www.yourglamlb.com/cdn/shop/files/ARM-SWATCHES-SOFT-PINCH-LUMINOUS-POWDER-BLUSH.webp?v=1714397000&width=533",
+            "marca_producto": "YOU",
+            "name_producto": "Sombra compacta ",
+            "descripcion_producto": "Sombra compacta pink ultrapigmentada You",
+            "precio_anterior_producto": "",
+            "precio_producto": "$6500.00"
+          }
+        ]
+      },
+      {
+        "id_cosmetico": "02",
+        "img_cosmetico": "./img/maquillaje.png",
+        "name_cosmetico": "Skin Care",
+        "menu_producto": [
+          {
+            "id_producto": "90",
+            "img_producto_miniatura": "https://i.ebayimg.com/images/g/wwUAAOSwpvldkLzB/s-l640.jpg",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.tuJKBlcEVuGENGGqECkH1QAAAA?w=474&h=474&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://www.ladyissue.com/wp-content/uploads/2017/07/Ultra-Glows-Queen-King-298x300.jpg",
+            "img_producto_3": "https://th.bing.com/th/id/OIP.S8HyFFE8ta0ueCb8aw5aBQHaHa?w=1600&h=1600&rs=1&pid=ImgDetMain",
+            "marca_producto": "Good Night",
+            "name_producto": "Mascarilla Nocturna",
+            "descripcion_producto": "Mascarilla Nocturna para Labios Ultrahidratante Good Night",
+            "precio_anterior_producto": "",
+            "precio_producto": "$11000.00"
+          },
+          {
+            "id_producto": "91",
+            "img_producto_miniatura": "https://www.violettacosmeticos.com/media/catalog/product/cache/5b203d4701d1944b63d577ba39599189/1/0/101511-clear-face-espuma-de-limpieza-facial-v1.jpg",
+            "img_producto_1": "https://bonitashop.com.py/wp-content/uploads/2022/11/ESPUMA.png",
+            "img_producto_2": "https://th.bing.com/th/id/OIP.q7F4VnuvFzVHDLe2ZGV4kwHaHa?rs=1&pid=ImgDetMain",
+            "img_producto_3": "https://th.bing.com/th/id/OIP.34E82F6sB9JmFH9GmRLk3wHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain",
+            "marca_producto": "Clear Face",
+            "name_producto": "Espuma facial",
+            "descripcion_producto": "Espuma de limpieza Facial Clear Face",
+            "precio_anterior_producto": "",
+            "precio_producto": "$6000.00"
+          },
+          {
+            "id_producto": "92",
+            "img_producto_miniatura": "https://th.bing.com/th/id/R.712d80a8a9122df209cca33d00aa2e1f?rik=d4xwdzKO8v4SFw&pid=ImgRaw&r=0",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.1rUFi_NuEuwV8foy9W5jeAHaHa?w=600&h=600&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://www.maicao.cl/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_Chile/default/dw593612b1/images/large/291934-3-gel-limpiador-espumoso-473-ml.jpg?sw=1000&sh=1000",
+            "img_producto_3": "https://th.bing.com/th/id/OIP.liXw64N_wuKJI8ub8BPKVAAAAA?w=367&h=449&rs=1&pid=ImgDetMain",
+            "marca_producto": "Violetta",
+            "name_producto": "Gel Exfoliante",
+            "descripcion_producto": "Gel Exfoliante Energizante Suave Frutos Rojos",
+            "precio_anterior_producto": "$7999.99",
+            "precio_producto": "$5899.99"
+          },
+          {
+            "id_producto": "93",
+            "img_producto_miniatura": "https://www.violettacosmeticos.com/media/catalog/product/cache/0122fc6ec3e1f8ad1d60a8c307d0be7f/1/0/100923-be-vegan-crema-hidratante_1.jpg",
+            "img_producto_1": "https://cdn.greensoft.mn/cache/images/9/d/3/0/1/9d301952bde60d056cb4dc86c5525d5fe3e9f8af.jpg",
+            "img_producto_2": "https://bonitashop.com.py/wp-content/uploads/2022/11/CREMA-HIDRATANTE.png",
+            "img_producto_3": "https://th.bing.com/th/id/OIP.ljOsEYL0QUiNJeGJxYMDdAAAAA?w=314&h=423&rs=1&pid=ImgDetMain",
+            "marca_producto": "Be vegan",
+            "name_producto": "Crema Hidratante",
+            "descripcion_producto": "Crema Hidratante Regeneradora Be Vegan",
+            "precio_anterior_producto": "$12749.99",
+            "precio_producto": "$8456.99"
+          }
+        
+        
+        
+        ]
+      },
+      {
+        "id_cosmetico": "03",
+        "img_cosmetico": "./img/maquillaje.png",
+        "name_cosmetico": "Accesorios",
+        "menu_producto": [
+          {
+            "id_producto": "190",
+            "img_producto_miniatura": "https://cdn.shopify.com/s/files/1/0016/4131/6441/products/20211122_151809_0008_1024x1024.png?v=1637605147",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.5Fb1xvF-0JcvB6KszuMZYgHaHa?w=600&h=600&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://images.tcdn.com.br/img/img_prod/789130/pincel_mc05322_silicone_18883_2_8c6b50b05ce358941a4681e0d00d0729_20220221194714.jpg",
+            "img_producto_3": "https://bunny-cdn.ventasxmayor.com/6063/public/57772739003353137/1664470551652-pincel3.jpg",
+            "marca_producto": "Violetta",
+            "name_producto": "Espátula",
+            "descripcion_producto": "Espátula de Silicona para Mascarillas",
+            "precio_anterior_producto": "$5999.99",
+            "precio_producto": "$2999.99"
+          },
+          {
+            "id_producto": "191",
+            "img_producto_miniatura": "https://th.bing.com/th/id/OIP.wuGlItRlDZkYiDocUg8MkQHaLH?w=853&h=1280&rs=1&pid=ImgDetMain",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.wuGlItRlDZkYiDocUg8MkQHaLH?w=853&h=1280&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://falabella.scene7.com/is/image/Falabella/119296016_1",
+            "img_producto_3": "https://ae01.alicdn.com/kf/HTB1ppnrRXXXXXb8XVXXq6xXFXXXw/1PC-New-Fashion-Black-Brown-Large-Fan-Blusher-Brush-Loose-Powder-Foundation-Brushes-Pro-Cosmetic-Makeup.jpg",
+            "marca_producto": "AVON",
+            "name_producto": "Brocha",
+            "descripcion_producto": "Brocha para Iluminador",
+            "precio_anterior_producto": "$10000.00",
+            "precio_producto": "$5000.00"
+          },
+          {
+            "id_producto": "192",
+            "img_producto_miniatura": "https://m.media-amazon.com/images/I/31kpuTmZEIL.jpg",
+            "img_producto_1": "https://m.media-amazon.com/images/I/31kpuTmZEIL.jpg",
+            "img_producto_2": "https://i5.walmartimages.com/seo/EDWGRR-4-Pack-Sunglasses-Holder-Clip-Hanger-Eyeglasses-Mount-Car-Glasses-Holders-Car-Sun-Visor-Double-Ends-180-Degree-Rotational-Ticket-Card_eafefb5f-f8cc-4239-bd32-9ace841b654d.238dbaddc210a4cd6b59241cc938fe36.jpeg",
+            "img_producto_3": "https://bunny-cdn.ventasxmayor.com/6063/public/56893129674751008/1649080378919-whatsappimage2022-04-04at10.15.552.jpeg",
+            "marca_producto": "Violetta",
+            "name_producto": "Arqueador de Pestañas",
+            "descripcion_producto": "Arqueador de Pestañas con curvas suaves",
+            "precio_anterior_producto": "",
+            "precio_producto": "$11000.00"
+          },
+          {
+            "id_producto": "193",
+            "img_producto_miniatura": "https://th.bing.com/th/id/OIP.5pGpHkOWnNzxpkmvAI4IzgHaHa?rs=1&pid=ImgDetMain",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.-z1AHfkUYkbJ230rKfaMQwAAAA?w=459&h=459&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://th.bing.com/th/id/OIP.Vyjji9TecRAweK7slnAvywHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
+            "img_producto_3": "https://th.bing.com/th/id/OIP.sZFJB7ebkP8JDngDRrW9ZQAAAA?rs=1&pid=ImgDetMain",
+            "marca_producto": "ScarletCosmetics",
+            "name_producto": "Brocha",
+            "descripcion_producto": "Brocha para Contouring",
+            "precio_anterior_producto": "$8999.99",
+            "precio_producto": "$4499.99"
+          }
+        ]
+      },
+      {
+        "id_cosmetico": "04",
+        "img_cosmetico": "./img/maquillaje.png",
+        "name_cosmetico": "Elejidos del mes",
+        "menu_producto": [
+          {
+            "id_producto": "190",
+            "img_producto_miniatura": "https://cdn.shopify.com/s/files/1/0016/4131/6441/products/20211122_151809_0008_1024x1024.png?v=1637605147",
+            "img_producto_1": "https://th.bing.com/th/id/OIP.5Fb1xvF-0JcvB6KszuMZYgHaHa?w=600&h=600&rs=1&pid=ImgDetMain",
+            "img_producto_2": "https://images.tcdn.com.br/img/img_prod/789130/pincel_mc05322_silicone_18883_2_8c6b50b05ce358941a4681e0d00d0729_20220221194714.jpg",
+            "img_producto_3": "https://bunny-cdn.ventasxmayor.com/6063/public/57772739003353137/1664470551652-pincel3.jpg",
+            "marca_producto": "Violetta",
+            "name_producto": "Espátula",
+            "descripcion_producto": "Espátula de Silicona para Mascarillas",
+            "precio_anterior_producto": "$5999.99",
+            "precio_producto": "$2999.99"
+          }
+
+        
+    
+        ]
+      }
+        
+    ],
+
+
+      "product_club": [
+        
+          {
+            "id_producto_club":"01",
+            "nuevo_club":"new in",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"cartera roja",
+            "puntos_club":"8000"
+          },
+          {
+            "id_producto_club":"02",
+            "nuevo_club":"exclusivo",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"lentes",
+            "puntos_club":"9000"
+          },
+          {
+            "id_producto_club":"03",
+            "nuevo_club":"new in",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"pañuelo violeta",
+            "puntos_club":"8000"
+          },
+          {
+            "id_producto_club":"04",
+            "nuevo_club":"new in",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"cartera verde",
+            "puntos_club":"3000"
+          },
+          {
+            "id_producto_club":"05",
+            "nuevo_club":"exclusive",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"labial",
+            "puntos_club":"1000"
+          },
+          {
+            "id_producto_club":"06",
+            "nuevo_club":"exclusive",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"funda iphone",
+            "puntos_club":"20.000"
+          },
+          {
+            "id_producto_club":"07",
+            "nuevo_club":"new in",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"cartera LV",
+            "puntos_club":"6000"
+          },
+          {
+            "id_producto_club":"08",
+            "nuevo_club":"exclusive",
+            "img_nuevo":"./img/cosmetico.jpg",
+            "name_club":"shampoo",
+            "puntos_club":"4000"
+          }
+
+        
+      ],
+      
+      
+    
+
+    "perfil":[
+      {
+        "id_usuario":"1060",
+        "img_usuario":"https://th.bing.com/th/id/R.841161f92c2a9e06d017251c3a41dc0d?rik=mHGT4%2fXwO%2bxbZw&riu=http%3a%2f%2fagencia-fotografia.com%2fwp-content%2fuploads%2f2014%2f06%2fPerfil-fotografia.jpg&ehk=%2bYEDPBWB0woufaWNcn2Uuefx8MU5MOK0HlPec9xuRtA%3d&risl=&pid=ImgRaw&r=0",
+        "name_usuario":"Juan Alberto Piris",
+        "email_usuario":"albeto@gmail.com",
+        "membresia_usuario":"plus+"
+      }
+    ]
+
+
+
+    
+
+  
+
+   
+  }
+  
+

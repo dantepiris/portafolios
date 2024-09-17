@@ -1,0 +1,15 @@
+.imgcuadrada{
+    display: none!important;
+}
+.imgrect{
+    display: block!important;
+}
+@media (orientation=portrait){
+    .imgrect{
+        display: none!important;
+    }
+    .imgcuadrada{
+        display: block!important;
+    }
+
+}
