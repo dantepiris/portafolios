@@ -1,14 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
     const perfilContainer = document.querySelector(".perfil");
 
-    // Llamar al archivo JSON desde la ruta correcta
+    
     fetch('json/informacion.json')
         .then(response => response.json())
         .then(data => {
-            // Acceder al array de perfiles dentro del objeto JSON
+        
             const perfiles = data.perfil;
 
-            // Crear tarjeta de perfil
+  
             perfiles.forEach(perfil => {
                 const perfilCard = document.createElement("div");
                 perfilCard.className = "perfil-card";
