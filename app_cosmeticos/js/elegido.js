@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('json/informacion.json')  // Actualiza la ruta aquí
+    fetch('json/informacion.json')  
         .then(response => response.json())
         .then(data => {
             const productos = data.product_club;
@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const productosPorGrupo = 4;
             const totalGrupos = Math.ceil(productos.length / productosPorGrupo);
             
-            // Crea grupos de productos
+      
             for (let i = 0; i < totalGrupos; i++) {
                 const productGroup = document.createElement('div');
                 productGroup.classList.add('product-group');
@@ -60,13 +60,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 container.appendChild(productGroup);
             }
 
-            // Configura el carrusel
+            
             const ingresoPapi = document.querySelector('.ingreso_papi');
             const prevButton = document.querySelector('.carousel-control.prevv');
             const nextButton = document.querySelector('.carousel-control.nextt');
             let currentIndex = 0;
             const totalGroups = container.children.length;
-            const groupWidth = ingresoPapi.clientWidth; // Ancho del contenedor para cada grupo
+            const groupWidth = ingresoPapi.clientWidth; 
 
             nextButton.addEventListener('click', () => {
                 if (currentIndex < totalGroups - 1) {
