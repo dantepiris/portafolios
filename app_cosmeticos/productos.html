@@ -100,14 +100,14 @@
 
         <script>
             document.addEventListener("DOMContentLoaded", () => {
-        // Función para actualizar el contador en el ícono del carrito
+ 
         function actualizarContadorCarrito() {
             let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
             let contador = carrito.length;
             document.querySelector('#cart-count').textContent = contador;
         }
     
-        // Llama a la función para mostrar el contador actualizado al cargar la página
+     
         actualizarContadorCarrito();
     });
         </script>
