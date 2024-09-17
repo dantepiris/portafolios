@@ -79,7 +79,7 @@
 
     <p class="title-carrito">Carrito de Compras</p>
     <div id="carrito-container">
-        <!-- Aquí se mostrarán los productos del carrito -->
+ 
     </div>
 
     <footer id="carrito-footer" style="display: none;">
@@ -96,13 +96,13 @@
             const finalizarCompraButton = document.getElementById('finalizar-compra');
             const carritoFooter = document.getElementById('carrito-footer');
         
-            // Obtener el carrito desde localStorage
+
             let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
         
-            // Inicializar la variable para el total del precio
+  
             let totalPrice = 0;
         
-            // Función para actualizar el total del precio
+       
             function updateTotalPrice() {
                 totalPrice = carrito.reduce((total, producto) => {
                     let precio = parseFloat(producto.precio_producto.replace(/[$,]/g, ''));
@@ -114,20 +114,20 @@
                 totalPriceElement.textContent = `Total: $${totalPrice.toFixed(2)}`;
             }
         
-            // Función para renderizar el carrito
+
             function renderCarrito() {
                 carritoContainer.innerHTML = '';
                 if (carrito.length === 0) {
                     carritoContainer.innerHTML = '<p class="vacio">¿Carrito vacio? <i class="fa-solid fa-store va-color"></i> <br>Que esperas para llenarlo.</p>';
-                    carritoFooter.style.display = 'none'; // Ocultar el footer si el carrito está vacío
+                    carritoFooter.style.display = 'none';
                 } else {
                     carrito.forEach((producto, index) => {
-                        // Limpia el símbolo $ y convierte a número flotante
+           
                         let precio = parseFloat(producto.precio_producto.replace(/[$,]/g, ''));
                         
-                        // Verificar si el precio es válido
+              
                         if (!isNaN(precio) && precio >= 0) {
-                            // Mostrar el producto en el carrito
+                
                             carritoContainer.innerHTML += `
                                 <div class="producto-carrito" data-index="${index}">
                                     <img src="${producto.img_producto_miniatura}" alt="${producto.name_producto}">
@@ -142,22 +142,22 @@
                                     </div>
                                 </div>
                             `;
-                            producto.cantidad = producto.cantidad || 1; // Asegurar que cada producto tenga una cantidad inicial
+                            producto.cantidad = producto.cantidad || 1; 
                         } else {
                             console.warn(`El precio del producto "${producto.name_producto}" no es válido.`);
                         }
                     });
         
-                    // Actualizar el total en el footer
+                  
                     updateTotalPrice();
                     carritoFooter.style.display = 'block';
                 }
             }
         
-            // Inicializar renderizado del carrito
+ 
             renderCarrito();
         
-            // Evento para aumentar o disminuir la cantidad
+    
             carritoContainer.addEventListener('click', (e) => {
                 if (e.target.classList.contains('btn-sumar') || e.target.classList.contains('btn-restar')) {
                     const productoCarrito = e.target.closest('.producto-carrito');
@@ -166,11 +166,11 @@
                     const cantidadSpan = productoCarrito.querySelector('.cantidad');
         
                     if (e.target.classList.contains('btn-sumar')) {
-                        if (producto.cantidad < 5) { // Maximo de 5
+                        if (producto.cantidad < 5) { 
                             producto.cantidad++;
                         }
                     } else if (e.target.classList.contains('btn-restar')) {
-                        if (producto.cantidad > 1) { // Minimo de 1
+                        if (producto.cantidad > 1) { 
                             producto.cantidad--;
                         }
                     }
@@ -178,22 +178,22 @@
                     cantidadSpan.textContent = producto.cantidad;
                     updateTotalPrice();
         
-                    // Guardar los cambios en el localStorage
+              
                     localStorage.setItem('carrito', JSON.stringify(carrito));
                 } else if (e.target.classList.contains('btn-eliminar') || e.target.closest('.btn-eliminar')) {
                     const productoCarrito = e.target.closest('.producto-carrito');
                     const index = parseInt(productoCarrito.getAttribute('data-index'));
         
-                    // Eliminar el producto del carrito
+                  
                     carrito.splice(index, 1);
         
-                    // Actualizar localStorage y renderizar el carrito
+                    
                     localStorage.setItem('carrito', JSON.stringify(carrito));
                     renderCarrito();
                 }
             });
         
-            // Evento para finalizar la compra
+       
             finalizarCompraButton.addEventListener('click', () => {
                 localStorage.removeItem('carrito');
                 carritoContainer.innerHTML = '<p>Compra hecha con éxito ¡Muchas gracias!</p>';
