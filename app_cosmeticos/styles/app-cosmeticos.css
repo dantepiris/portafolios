@@ -1814,8 +1814,8 @@ td:nth-child(4) {
         position: relative;
         background-color: blueviolet;
         margin: 20px;
-        height: 700px; /* Ajusta el valor según tus necesidades */
-        overflow: hidden; /* Opcional: Oculta el contenido que sobresalga del contenedor */
+        height: 700px; 
+        overflow: hidden; 
     }
 
      .prev-btn-carro {
@@ -1871,17 +1871,17 @@ td:nth-child(4) {
 }
 
 .container_envio {
-    height: 100%; /* Ajustar la altura al 100% del contenedor principal */
-    width: 350px; /* Definir un ancho fijo para cada contenedor */
+    height: 100%; 
+    width: 350px; 
     display: flex;
     align-items: center;
     background-color: #b4b2b3;
     padding: 20px;
     border: 1px solid #000000;
     border-radius: 8px;
-    box-sizing: border-box; /* Incluir padding y borde en el tamaño total del contenedor */
-    overflow: hidden; /* Ocultar el desbordamiento del contenido */
-    flex-shrink: 0; /* Evitar que los contenedores se encojan */
+    box-sizing: border-box; 
+    overflow: hidden;
+    flex-shrink: 0; 
 
 }
 
@@ -2059,7 +2059,7 @@ td:nth-child(4) {
 }
 
 .button {
-    width: 200px; /* Ancho del botón de comprar */
+    width: 200px; 
     height: 80px;
     margin-top: 30px;
 
