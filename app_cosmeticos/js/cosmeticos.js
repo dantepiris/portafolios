@@ -22,5 +22,5 @@ fetch("json/informacion.json")
         });
     });
 
-// Obtiene desde la caché el valor almacenado en id_cosmetico
+
 console.log("Cosmético almacenado: " + localStorage.getItem("id_cosmetico"));
