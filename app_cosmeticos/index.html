@@ -107,7 +107,7 @@
                 <div class="carousel-item-widow">
                   <img src="./img/cosmetico.jpg" alt="Imagen 3">
                 </div>
-                <!-- Agrega más items aquí -->
+  
               </div>
             </div>
     
@@ -329,14 +329,14 @@
     <script src="./js/carrusel_solo_descuento.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
-    // Función para actualizar el contador en el ícono del carrito
+    
     function actualizarContadorCarrito() {
         let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
         let contador = carrito.length;
         document.querySelector('#cart-count').textContent = contador;
     }
 
-    // Llama a la función para mostrar el contador actualizado al cargar la página
+   
     actualizarContadorCarrito();
 });
     </script>
