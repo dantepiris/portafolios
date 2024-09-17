@@ -1,7 +1,7 @@
-// Función para cargar el JSON
+
 async function cargarDatos() {
   try {
-    // Supongamos que el JSON está en un archivo llamado 'datos.json'
+
     const respuesta = await fetch('json/informacion.json');
     if (!respuesta.ok) throw new Error('Error en la carga de datos');
 
@@ -9,23 +9,23 @@ async function cargarDatos() {
     return datosJSON;
   } catch (error) {
     console.error('Error al cargar los datos:', error);
-    return { contenedores: [] }; // Devuelve un objeto vacío en caso de error
+    return { contenedores: [] }; 
   }
 }
 
-// Variable global para almacenar los datos
+
 let datos = { contenedores: [] };
 
-// Llamar a la función para cargar los datos
+
 cargarDatos().then(data => {
   datos = data;
 
-  // Función para mostrar el contenido de acuerdo al ID
+ 
   function mostrarContenido(id) {
-    // Ocultar todos los contenedores desplegados
+    
     document.querySelectorAll('.conteiner-desplegado, .conteiner-local, .conteiner-contacto, #formulario-arrepentimiento').forEach(el => el.style.display = 'none');
     
-    // Buscar el contenedor en el JSON por ID
+   
     const contenedor = datos.contenedores.find(c => c.id === id);
     
     if (contenedor) {
@@ -40,7 +40,7 @@ cargarDatos().then(data => {
       const formularioArrepentimiento = document.getElementById('formulario-arrepentimiento');
 
       if (contenedor.id === 'id_2') {
-        // Mostrar contenedor de Locales
+  
         contenedorLocal.style.display = 'flex';
         tituloLocal.textContent = contenedor.titulo;
         contenidoLocal.innerHTML = contenedor.contacto.map(c => `
@@ -54,7 +54,7 @@ cargarDatos().then(data => {
       
         `).join('');
       } else if (contenedor.id === 'id_3') {
-        // Mostrar contenedor de Contacto
+ 
         contenedorContacto.style.display = 'flex';
         tituloContacto.textContent = contenedor.titulo;
         contenidoContacto.innerHTML = contenedor.contacto.map(c => `
@@ -68,10 +68,10 @@ cargarDatos().then(data => {
           </div>
         `).join('');
       } else if (contenedor.id === 'id_4') {
-        // Mostrar formulario de arrepentimiento
+
         formularioArrepentimiento.style.display = 'flex';
       } else {
-        // Mostrar contenedor general
+  
         document.getElementById('conteiner-desplegado').style.display = 'flex';
         titulo.textContent = contenedor.titulo;
         if (Array.isArray(contenedor.contenido)) {
@@ -81,23 +81,23 @@ cargarDatos().then(data => {
         }
       }
       
-      // Desactivar el scroll
+
       document.body.classList.add('no-scroll');
     }
   }
 
-  // Añadir eventos a los botones
+ 
   document.querySelectorAll('.conteiner-desplegable').forEach(el => {
     el.addEventListener('click', () => mostrarContenido(el.id));
   });
 
-  // Función para cerrar los contenedores
+
   function cerrarContenedor(contenedorId) {
     document.getElementById(contenedorId).style.display = 'none';
     document.body.classList.remove('no-scroll');
   }
 
-  // Añadir eventos a los botones de cerrar
+ 
   document.getElementById('close-btn-text').addEventListener('click', () => cerrarContenedor('conteiner-desplegado'));
   document.getElementById('close-btn-local').addEventListener('click', () => cerrarContenedor('conteiner-local'));
   document.getElementById('close-btn-contacto').addEventListener('click', () => cerrarContenedor('conteiner-contacto'));
