@@ -1,29 +1,28 @@
-// Obtiene el id_cosmetico almacenado en el localStorage
+
 let idCosmeticoSeleccionado = localStorage.getItem("id_cosmetico");
 
-// Selecciona el contenedor donde mostrarás los productos
+
 let containerSeleccionado = document.querySelector("#productos_seleccionado");
 
-// Verifica que exista un id almacenado
 if (idCosmeticoSeleccionado) {
-    // Realiza la petición para obtener los datos de productos
+
     fetch("json/informacion.json")
         .then((response) => response.json())
         .then((data) => {
-            // Busca el cosmético seleccionado por su id_cosmetico
+           
             let cosmeticoSeleccionado = data.cosmeticos.find(
                 (cosmetico) => cosmetico.id_cosmetico === idCosmeticoSeleccionado
             );
 
-            // Si se encuentra el cosmético
+         
             if (cosmeticoSeleccionado) {
-                // Crea un elemento de título para el cosmético
+    
                 let tituloCosmetico = document.createElement("h2");
                 tituloCosmetico.textContent = cosmeticoSeleccionado.name_cosmetico;
-                tituloCosmetico.classList.add("titulo-cosmetico"); // Añade la clase para el CSS
+                tituloCosmetico.classList.add("titulo-cosmetico"); 
                 containerSeleccionado.appendChild(tituloCosmetico);
 
-                // Muestra los productos en menu_producto
+        
                 if (cosmeticoSeleccionado.menu_producto) {
                     cosmeticoSeleccionado.menu_producto.forEach((producto) => {
                         let cardProducto = document.createElement("div");
@@ -41,11 +40,10 @@ if (idCosmeticoSeleccionado) {
                             </div>
                         `;
 
-                        // Añade la tarjeta del producto al contenedor
+                
                         containerSeleccionado.appendChild(cardProducto);
                     });
 
-                    // Añade un event listener a cada botón de comprar
                     containerSeleccionado.querySelectorAll(".button_p").forEach((button) => {
                         button.addEventListener("click", (event) => {
                             let idProducto = event.target.getAttribute("data-id");
