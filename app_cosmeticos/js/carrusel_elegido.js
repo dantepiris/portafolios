@@ -8,7 +8,7 @@ prevBtn.addEventListener('click', () => {
     if (currentIndex > 0) {
         currentIndex--;
     } else {
-        currentIndex = carouselSlides.length - 1; // Go to the last slide if at the start
+        currentIndex = carouselSlides.length - 1; 
     }
     updateCarousel();
 });
@@ -17,7 +17,7 @@ nextBtn.addEventListener('click', () => {
     if (currentIndex < carouselSlides.length - 1) {
         currentIndex++;
     } else {
-        currentIndex = 0; // Loop back to the first slide
+        currentIndex = 0;
     }
     updateCarousel();
 });
